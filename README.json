@@ -21,10 +21,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T08:21:57Z",
+            "last_commit": "2026-08-18T08:24:26Z",
             "owner": "vitejs",
             "repo": "vite",
-            "stars": 82370
+            "stars": 82385
           }
         },
         {
@@ -35,10 +35,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T08:21:57Z",
+            "last_commit": "2026-08-18T08:24:26Z",
             "owner": "vitejs",
             "repo": "vite",
-            "stars": 82370
+            "stars": 82385
           }
         },
         {
@@ -69,10 +69,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T08:21:57Z",
+            "last_commit": "2026-08-18T08:24:26Z",
             "owner": "vitejs",
             "repo": "vite",
-            "stars": 82370
+            "stars": 82385
           }
         },
         {
@@ -83,10 +83,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T08:42:44Z",
+            "last_commit": "2026-08-18T08:32:55Z",
             "owner": "nrwl",
             "repo": "nx",
-            "stars": 29226
+            "stars": 29227
           }
         },
         {
@@ -262,7 +262,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T18:05:25Z",
+            "last_commit": "2026-08-17T19:09:21Z",
             "owner": "Barata-Ribeiro",
             "repo": "vite-vanilla-js-template",
             "stars": 75
@@ -422,10 +422,10 @@
           "repo_info": {
             "archived": false,
             "language": "Vue",
-            "last_commit": "2026-08-15T06:06:15Z",
+            "last_commit": "2026-08-17T20:09:51Z",
             "owner": "vbenjs",
             "repo": "vue-vben-admin",
-            "stars": 33151
+            "stars": 33157
           }
         },
         {
@@ -439,7 +439,7 @@
             "last_commit": "2026-07-27T02:13:14Z",
             "owner": "pure-admin",
             "repo": "vue-pure-admin",
-            "stars": 20535
+            "stars": 20540
           }
         },
         {
@@ -576,7 +576,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T11:45:30Z",
+            "last_commit": "2026-08-18T05:57:30Z",
             "owner": "Uninen",
             "repo": "vite-ts-tailwind-starter",
             "stars": 473
@@ -744,7 +744,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-01-20T02:49:41Z",
+            "last_commit": "2026-08-18T08:18:19Z",
             "owner": "Zuojiangtao",
             "repo": "antd-vue3-admin",
             "stars": 24
@@ -899,7 +899,7 @@
             "last_commit": "2026-08-16T20:59:22Z",
             "owner": "kriasoft",
             "repo": "react-starter-kit",
-            "stars": 23665
+            "stars": 23667
           }
         },
         {
@@ -913,7 +913,7 @@
             "last_commit": "2025-10-27T06:42:26Z",
             "owner": "Jonghakseo",
             "repo": "chrome-extension-boilerplate-react-vite",
-            "stars": 4912
+            "stars": 4913
           }
         },
         {
@@ -969,7 +969,7 @@
             "last_commit": "2026-08-14T21:09:48Z",
             "owner": "TeXmeijin",
             "repo": "vite-react-ts-tailwind-firebase-starter",
-            "stars": 307
+            "stars": 308
           }
         },
         {
@@ -994,7 +994,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T12:33:28Z",
+            "last_commit": "2026-08-17T12:34:21Z",
             "owner": "laststance",
             "repo": "create-react-app-vite",
             "stars": 161
@@ -1008,7 +1008,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T10:34:51Z",
+            "last_commit": "2026-08-17T10:35:06Z",
             "owner": "laststance",
             "repo": "vite-rtk-query",
             "stars": 153
@@ -1151,7 +1151,7 @@
             "last_commit": "2026-07-15T07:18:50Z",
             "owner": "RoyRao2333",
             "repo": "template-vite-react-ts-tailwind",
-            "stars": 89
+            "stars": 90
           }
         },
         {
@@ -1712,10 +1712,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T06:13:06Z",
+            "last_commit": "2026-08-18T01:23:48Z",
             "owner": "sveltejs",
             "repo": "kit",
-            "stars": 20742
+            "stars": 20743
           }
         },
         {
@@ -1791,7 +1791,7 @@
             "last_commit": "2023-12-07T02:58:42Z",
             "owner": "xbmlz",
             "repo": "vitesse-solid",
-            "stars": 65
+            "stars": 64
           }
         },
         {
@@ -1825,7 +1825,7 @@
             "last_commit": "2026-08-01T02:43:37Z",
             "owner": "electron-vite",
             "repo": "electron-vite-vue",
-            "stars": 4890
+            "stars": 4892
           }
         },
         {
@@ -1853,7 +1853,7 @@
             "last_commit": "2026-08-01T06:24:05Z",
             "owner": "electron-vite",
             "repo": "electron-vite-react",
-            "stars": 2428
+            "stars": 2429
           }
         },
         {
@@ -2124,10 +2124,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T09:06:21Z",
+            "last_commit": "2026-08-18T08:59:11Z",
             "owner": "storybookjs",
             "repo": "storybook",
-            "stars": 90857
+            "stars": 90862
           }
         },
         {
@@ -2138,10 +2138,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T08:21:57Z",
+            "last_commit": "2026-08-18T08:24:26Z",
             "owner": "vitejs",
             "repo": "vite",
-            "stars": 82370
+            "stars": 82385
           }
         },
         {
@@ -2155,7 +2155,7 @@
             "last_commit": "2026-08-03T09:34:42Z",
             "owner": "QwikDev",
             "repo": "partytown",
-            "stars": 13753
+            "stars": 13754
           }
         },
         {
@@ -2169,7 +2169,7 @@
             "last_commit": "2026-05-05T15:03:21Z",
             "owner": "vite-pwa",
             "repo": "vite-plugin-pwa",
-            "stars": 4237
+            "stars": 4238
           }
         },
         {
@@ -2225,7 +2225,7 @@
             "last_commit": "2026-07-28T18:01:49Z",
             "owner": "code-forge-io",
             "repo": "react-router-devtools",
-            "stars": 973
+            "stars": 972
           }
         },
         {
@@ -2250,7 +2250,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T08:01:23Z",
+            "last_commit": "2026-08-18T01:03:21Z",
             "owner": "module-federation",
             "repo": "vite",
             "stars": 854
@@ -2404,7 +2404,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T13:18:27Z",
+            "last_commit": "2026-08-17T13:27:35Z",
             "owner": "SpiriitLabs",
             "repo": "vite-plugin-svg-spritemap",
             "stars": 121
@@ -2908,7 +2908,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T23:37:14Z",
+            "last_commit": "2026-08-17T22:39:25Z",
             "owner": "8hobbies",
             "repo": "vite-plugin-year",
             "stars": 4
@@ -2959,7 +2959,7 @@
             "last_commit": "2026-01-14T10:52:48Z",
             "owner": "unplugin",
             "repo": "unplugin-icons",
-            "stars": 4928
+            "stars": 4929
           }
         },
         {
@@ -3096,7 +3096,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T19:16:19Z",
+            "last_commit": "2026-08-17T22:12:40Z",
             "owner": "cyco130",
             "repo": "vite-plugin-mdx",
             "stars": 17
@@ -3153,7 +3153,7 @@
             "last_commit": "2026-08-11T01:55:49Z",
             "owner": "qmhc",
             "repo": "unplugin-dts",
-            "stars": 1527
+            "stars": 1528
           }
         },
         {
@@ -3167,7 +3167,7 @@
             "last_commit": "2026-04-17T22:28:44Z",
             "owner": "richardtallent",
             "repo": "vite-plugin-singlefile",
-            "stars": 1221
+            "stars": 1224
           }
         },
         {
@@ -3181,7 +3181,7 @@
             "last_commit": "2026-08-14T23:49:11Z",
             "owner": "FatehAK",
             "repo": "vite-plugin-image-optimizer",
-            "stars": 515
+            "stars": 514
           }
         },
         {
@@ -3304,7 +3304,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2025-05-11T14:49:02Z",
+            "last_commit": "2026-08-17T09:39:58Z",
             "owner": "fengxinming",
             "repo": "vite-plugins",
             "stars": 98
@@ -4151,7 +4151,7 @@
             "last_commit": "2026-08-03T01:46:59Z",
             "owner": "unplugin",
             "repo": "unplugin-auto-import",
-            "stars": 3789
+            "stars": 3790
           }
         },
         {
@@ -4246,7 +4246,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T11:55:47Z",
+            "last_commit": "2026-08-17T23:51:21Z",
             "owner": "pengzhanbo",
             "repo": "vite-plugin-mock-dev-server",
             "stars": 256
@@ -4263,7 +4263,7 @@
             "last_commit": "2026-03-16T12:53:11Z",
             "owner": "Julien-R44",
             "repo": "vite-plugin-validate-env",
-            "stars": 232
+            "stars": 233
           }
         },
         {
@@ -4358,7 +4358,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-08T19:19:04Z",
+            "last_commit": "2026-08-18T09:00:11Z",
             "owner": "Dschungelabenteuer",
             "repo": "vite-plugin-entry-shaking",
             "stars": 157
@@ -4400,7 +4400,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2025-05-11T14:49:02Z",
+            "last_commit": "2026-08-17T09:39:58Z",
             "owner": "fengxinming",
             "repo": "vite-plugins",
             "stars": 98
@@ -4428,7 +4428,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2025-05-11T14:49:02Z",
+            "last_commit": "2026-08-17T09:39:58Z",
             "owner": "fengxinming",
             "repo": "vite-plugins",
             "stars": 98
@@ -4442,7 +4442,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2025-05-11T14:49:02Z",
+            "last_commit": "2026-08-17T09:39:58Z",
             "owner": "fengxinming",
             "repo": "vite-plugins",
             "stars": 98
@@ -4916,10 +4916,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T09:03:14Z",
+            "last_commit": "2026-08-18T08:48:26Z",
             "owner": "vitest-dev",
             "repo": "vitest",
-            "stars": 16965
+            "stars": 16967
           }
         },
         {
@@ -4958,7 +4958,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T21:40:25Z",
+            "last_commit": "2026-08-18T02:12:39Z",
             "owner": "ssssota",
             "repo": "doc-vitest",
             "stars": 74
@@ -5090,7 +5090,7 @@
             "last_commit": "2025-10-04T02:53:14Z",
             "owner": "vitejs",
             "repo": "vite-plugin-vue2",
-            "stars": 579
+            "stars": 578
           }
         },
         {
@@ -5628,10 +5628,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T22:55:01Z",
+            "last_commit": "2026-08-18T07:25:51Z",
             "owner": "solidjs",
             "repo": "solid-vite-plugin",
-            "stars": 511
+            "stars": 510
           }
         },
         {
@@ -5695,7 +5695,7 @@
             "last_commit": "2026-05-29T15:48:45Z",
             "owner": "rollup",
             "repo": "plugins",
-            "stars": 3758
+            "stars": 3759
           }
         },
         {
@@ -5709,7 +5709,7 @@
             "last_commit": "2026-05-29T15:48:45Z",
             "owner": "rollup",
             "repo": "plugins",
-            "stars": 3758
+            "stars": 3759
           }
         },
         {
@@ -5723,7 +5723,7 @@
             "last_commit": "2026-05-29T15:48:45Z",
             "owner": "rollup",
             "repo": "plugins",
-            "stars": 3758
+            "stars": 3759
           }
         },
         {
@@ -5737,7 +5737,7 @@
             "last_commit": "2026-05-29T15:48:45Z",
             "owner": "rollup",
             "repo": "plugins",
-            "stars": 3758
+            "stars": 3759
           }
         }
       ],
@@ -5757,7 +5757,7 @@
             "last_commit": "2026-05-29T15:48:45Z",
             "owner": "rollup",
             "repo": "plugins",
-            "stars": 3758
+            "stars": 3759
           }
         },
         {
@@ -5771,7 +5771,7 @@
             "last_commit": "2026-05-29T15:48:45Z",
             "owner": "rollup",
             "repo": "plugins",
-            "stars": 3758
+            "stars": 3759
           }
         },
         {
@@ -5785,7 +5785,7 @@
             "last_commit": "2026-05-29T15:48:45Z",
             "owner": "rollup",
             "repo": "plugins",
-            "stars": 3758
+            "stars": 3759
           }
         },
         {
@@ -5799,7 +5799,7 @@
             "last_commit": "2026-05-29T15:48:45Z",
             "owner": "rollup",
             "repo": "plugins",
-            "stars": 3758
+            "stars": 3759
           }
         },
         {
@@ -5813,7 +5813,7 @@
             "last_commit": "2026-05-29T15:48:45Z",
             "owner": "rollup",
             "repo": "plugins",
-            "stars": 3758
+            "stars": 3759
           }
         },
         {
@@ -5827,7 +5827,7 @@
             "last_commit": "2026-05-29T15:48:45Z",
             "owner": "rollup",
             "repo": "plugins",
-            "stars": 3758
+            "stars": 3759
           }
         },
         {
@@ -5841,7 +5841,7 @@
             "last_commit": "2026-05-29T15:48:45Z",
             "owner": "rollup",
             "repo": "plugins",
-            "stars": 3758
+            "stars": 3759
           }
         },
         {
@@ -5855,7 +5855,7 @@
             "last_commit": "2026-05-29T15:48:45Z",
             "owner": "rollup",
             "repo": "plugins",
-            "stars": 3758
+            "stars": 3759
           }
         },
         {
@@ -5869,7 +5869,7 @@
             "last_commit": "2026-05-29T15:48:45Z",
             "owner": "rollup",
             "repo": "plugins",
-            "stars": 3758
+            "stars": 3759
           }
         }
       ],
@@ -5889,7 +5889,7 @@
             "last_commit": "2026-05-29T15:48:45Z",
             "owner": "rollup",
             "repo": "plugins",
-            "stars": 3758
+            "stars": 3759
           }
         },
         {
@@ -5903,7 +5903,7 @@
             "last_commit": "2026-05-29T15:48:45Z",
             "owner": "rollup",
             "repo": "plugins",
-            "stars": 3758
+            "stars": 3759
           }
         },
         {
@@ -5917,7 +5917,7 @@
             "last_commit": "2026-05-29T15:48:45Z",
             "owner": "rollup",
             "repo": "plugins",
-            "stars": 3758
+            "stars": 3759
           }
         },
         {
@@ -5931,7 +5931,7 @@
             "last_commit": "2026-05-29T15:48:45Z",
             "owner": "rollup",
             "repo": "plugins",
-            "stars": 3758
+            "stars": 3759
           }
         },
         {
@@ -5945,7 +5945,7 @@
             "last_commit": "2026-05-29T15:48:45Z",
             "owner": "rollup",
             "repo": "plugins",
-            "stars": 3758
+            "stars": 3759
           }
         },
         {
@@ -5959,7 +5959,7 @@
             "last_commit": "2026-05-29T15:48:45Z",
             "owner": "rollup",
             "repo": "plugins",
-            "stars": 3758
+            "stars": 3759
           }
         },
         {
@@ -5973,7 +5973,7 @@
             "last_commit": "2026-05-29T15:48:45Z",
             "owner": "rollup",
             "repo": "plugins",
-            "stars": 3758
+            "stars": 3759
           }
         },
         {
@@ -5987,7 +5987,7 @@
             "last_commit": "2026-05-29T15:48:45Z",
             "owner": "rollup",
             "repo": "plugins",
-            "stars": 3758
+            "stars": 3759
           }
         },
         {
@@ -6001,7 +6001,7 @@
             "last_commit": "2026-05-29T15:48:45Z",
             "owner": "rollup",
             "repo": "plugins",
-            "stars": 3758
+            "stars": 3759
           }
         },
         {
@@ -6015,7 +6015,7 @@
             "last_commit": "2026-05-29T15:48:45Z",
             "owner": "rollup",
             "repo": "plugins",
-            "stars": 3758
+            "stars": 3759
           }
         },
         {
@@ -6029,7 +6029,7 @@
             "last_commit": "2026-05-29T15:48:45Z",
             "owner": "rollup",
             "repo": "plugins",
-            "stars": 3758
+            "stars": 3759
           }
         },
         {
@@ -6079,7 +6079,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T01:42:04Z",
+            "last_commit": "2026-08-18T08:54:24Z",
             "owner": "vikejs",
             "repo": "vike",
             "stars": 5807
@@ -6225,7 +6225,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T01:38:09Z",
+            "last_commit": "2026-08-17T11:43:34Z",
             "owner": "magne4000",
             "repo": "vite-plugin-vercel",
             "stars": 128
@@ -6286,7 +6286,7 @@
             "last_commit": "2025-05-09T19:36:18Z",
             "owner": "MrBin99",
             "repo": "django-vite",
-            "stars": 836
+            "stars": 837
           }
         },
         {
@@ -6385,7 +6385,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-11T09:05:59Z",
+            "last_commit": "2026-08-17T20:31:59Z",
             "owner": "vinkla",
             "repo": "wordplate",
             "stars": 2174
@@ -6519,7 +6519,7 @@
             "last_commit": "2026-01-31T10:10:36Z",
             "owner": "szymmis",
             "repo": "vite-express",
-            "stars": 819
+            "stars": 817
           }
         },
         {
@@ -6613,10 +6613,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T20:15:17Z",
+            "last_commit": "2026-08-18T08:11:39Z",
             "owner": "withastro",
             "repo": "astro",
-            "stars": 61817
+            "stars": 61838
           }
         },
         {
@@ -6630,7 +6630,7 @@
             "last_commit": "2026-08-14T11:37:40Z",
             "owner": "slidevjs",
             "repo": "slidev",
-            "stars": 48115
+            "stars": 48131
           }
         },
         {
@@ -6641,10 +6641,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T04:55:31Z",
+            "last_commit": "2026-08-18T04:29:37Z",
             "owner": "vuejs",
             "repo": "vitepress",
-            "stars": 18190
+            "stars": 18195
           }
         },
         {
@@ -6658,7 +6658,7 @@
             "last_commit": "2026-08-16T07:48:35Z",
             "owner": "wxt-dev",
             "repo": "wxt",
-            "stars": 10361
+            "stars": 10366
           }
         },
         {
@@ -6669,10 +6669,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T08:54:57Z",
+            "last_commit": "2026-08-18T05:54:18Z",
             "owner": "nhost",
             "repo": "nhost",
-            "stars": 9279
+            "stars": 9278
           }
         },
         {
@@ -6804,7 +6804,7 @@
             "last_commit": "2026-07-22T04:18:00Z",
             "owner": "antfu-collective",
             "repo": "icones",
-            "stars": 7436
+            "stars": 7438
           }
         },
         {
@@ -6924,7 +6924,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T09:08:06.947Z",
+    "last_updated": "2026-08-18T09:02:00.906Z",
     "original_repository": "vitejs/awesome-vite",
     "original_repository_sha": "ec6b41d8295ed4a18a58778a1219aa430bb55963",
     "enhanced_repository": "enhansome/enhansome-vite",
