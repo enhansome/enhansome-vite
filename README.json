@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-24T04:58:55Z",
                 "owner": "vitejs",
                 "repo": "vite",
-                "stars": 82501
+                "stars": 82506
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-24T04:58:55Z",
                 "owner": "vitejs",
                 "repo": "vite",
-                "stars": 82501
+                "stars": 82506
               }
             },
             {
@@ -73,7 +73,7 @@
             "last_commit": "2026-08-24T04:58:55Z",
             "owner": "vitejs",
             "repo": "vite",
-            "stars": 82501
+            "stars": 82506
           }
         },
         {
@@ -85,7 +85,7 @@
             "archived": false,
             "id": 100061716,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T08:39:07Z",
+            "last_commit": "2026-08-24T13:02:50Z",
             "owner": "nrwl",
             "repo": "nx",
             "stars": 29256
@@ -441,10 +441,10 @@
                     "archived": false,
                     "id": 278772719,
                     "language": "Vue",
-                    "last_commit": "2026-08-23T07:55:22Z",
+                    "last_commit": "2026-08-24T13:20:00Z",
                     "owner": "vbenjs",
                     "repo": "vue-vben-admin",
-                    "stars": 33212
+                    "stars": 33215
                   }
                 },
                 {
@@ -459,7 +459,7 @@
                     "last_commit": "2026-08-23T23:57:27Z",
                     "owner": "pure-admin",
                     "repo": "vue-pure-admin",
-                    "stars": 20556
+                    "stars": 20558
                   }
                 },
                 {
@@ -504,7 +504,7 @@
                     "last_commit": "2026-03-03T12:41:03Z",
                     "owner": "antfu-collective",
                     "repo": "vitesse-webext",
-                    "stars": 3377
+                    "stars": 3378
                   }
                 },
                 {
@@ -1055,7 +1055,7 @@
                     "archived": false,
                     "id": 423658368,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-21T12:34:05Z",
+                    "last_commit": "2026-08-24T12:33:44Z",
                     "owner": "laststance",
                     "repo": "create-react-app-vite",
                     "stars": 161
@@ -1070,7 +1070,7 @@
                     "archived": false,
                     "id": 429537032,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-21T10:34:24Z",
+                    "last_commit": "2026-08-24T10:41:05Z",
                     "owner": "laststance",
                     "repo": "vite-rtk-query",
                     "stars": 153
@@ -1812,10 +1812,10 @@
                     "archived": false,
                     "id": 304344049,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-24T09:03:46Z",
+                    "last_commit": "2026-08-24T09:59:00Z",
                     "owner": "sveltejs",
                     "repo": "kit",
-                    "stars": 20759
+                    "stars": 20760
                   }
                 },
                 {
@@ -2145,6 +2145,43 @@
         {
           "children": [
             {
+              "node_type": "item",
+              "title": "HuLa",
+              "description": "is a desktop instant messaging app built on + + + (not just instant messaging).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 743770309,
+                "language": "Vue",
+                "last_commit": "2026-08-15T11:49:26Z",
+                "owner": "HuLaSpark",
+                "repo": "HuLa",
+                "stars": 7682
+              }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "vite-react-neutralino-template",
+                  "description": "Neutralino + Vite + React template.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 534371875,
+                    "language": "JavaScript",
+                    "last_commit": "2024-05-25T14:29:17Z",
+                    "owner": "piggov",
+                    "repo": "vite-react-neutralino-template",
+                    "stars": 5
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Neutralino"
+            },
+            {
               "children": [
                 {
                   "node_type": "item",
@@ -2165,6 +2202,50 @@
               "description": null,
               "node_type": "group",
               "title": "Elm"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "vite-plugin-fable",
+                  "description": "Template with and files and the F# compiler.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 732756517,
+                    "language": "F#",
+                    "last_commit": "2025-10-24T06:57:24Z",
+                    "owner": "fable-compiler",
+                    "repo": "vite-plugin-fable",
+                    "stars": 44
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "F# and Fable"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "github-action-template",
+                  "description": "Starter template for GitHub Actions, TypeScript, ESLint, Vitest, Husky, Conventional Commits.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 753637659,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-21T18:16:07Z",
+                    "owner": "hywax",
+                    "repo": "github-action-template",
+                    "stars": 27
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "GitHub"
             },
             {
               "children": [
@@ -2235,17 +2316,17 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "storybook",
                   "description": "Storybook builder.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 54173593,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T09:07:07Z",
+                    "last_commit": "2026-08-24T13:49:19Z",
                     "owner": "storybookjs",
                     "repo": "storybook",
-                    "stars": 90911
+                    "stars": 90914
                   }
                 },
                 {
@@ -2260,7 +2341,7 @@
                     "last_commit": "2026-08-24T04:58:55Z",
                     "owner": "vitejs",
                     "repo": "vite",
-                    "stars": 82501
+                    "stars": 82506
                   }
                 },
                 {
@@ -2272,7 +2353,7 @@
                     "archived": false,
                     "id": 398349583,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-03T09:34:42Z",
+                    "last_commit": "2026-08-24T13:44:54Z",
                     "owner": "QwikDev",
                     "repo": "partytown",
                     "stars": 13760
@@ -2290,7 +2371,7 @@
                     "last_commit": "2026-05-05T15:03:21Z",
                     "owner": "vite-pwa",
                     "repo": "vite-plugin-pwa",
-                    "stars": 4247
+                    "stars": 4249
                   }
                 },
                 {
@@ -2370,17 +2451,17 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "vite",
                   "description": "Official Module Federation integration, enabling dynamic remote module loading.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 533871213,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T08:52:39Z",
+                    "last_commit": "2026-08-24T13:05:55Z",
                     "owner": "module-federation",
                     "repo": "vite",
-                    "stars": 857
+                    "stars": 858
                   }
                 },
                 {
@@ -3152,7 +3233,7 @@
                     "last_commit": "2026-08-23T17:01:26Z",
                     "owner": "JonasKruckenberg",
                     "repo": "imagetools",
-                    "stars": 1136
+                    "stars": 1137
                   }
                 },
                 {
@@ -4490,7 +4571,7 @@
                     "archived": false,
                     "id": 451914608,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-20T22:17:07Z",
+                    "last_commit": "2026-08-24T09:47:17Z",
                     "owner": "jycouet",
                     "repo": "kitql",
                     "stars": 455
@@ -5210,17 +5291,17 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "vitest",
                   "description": "A Vite-native test framework.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 434708679,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T07:33:11Z",
+                    "last_commit": "2026-08-24T13:38:54Z",
                     "owner": "vitest-dev",
                     "repo": "vitest",
-                    "stars": 16998
+                    "stars": 17001
                   }
                 },
                 {
@@ -5270,7 +5351,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "poyro",
                   "description": "Test LLM integrations using Vitest.",
                   "children": [],
                   "repo_info": {
@@ -5346,7 +5427,7 @@
                     "last_commit": "2026-08-24T03:48:48Z",
                     "owner": "vitejs",
                     "repo": "vite-plugin-vue",
-                    "stars": 676
+                    "stars": 677
                   }
                 },
                 {
@@ -5361,7 +5442,7 @@
                     "last_commit": "2026-08-24T03:48:48Z",
                     "owner": "vitejs",
                     "repo": "vite-plugin-vue",
-                    "stars": 676
+                    "stars": 677
                   }
                 },
                 {
@@ -5597,6 +5678,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "vite-ssg",
+                  "description": "Server-side generation.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 323282837,
+                    "language": "TypeScript",
+                    "last_commit": "2026-03-20T15:19:13Z",
+                    "owner": "antfu-collective",
+                    "repo": "vite-ssg",
+                    "stars": 1575
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "SSG"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "unplugin-vue-i18n",
                   "description": "Integration for Vue I18n.",
                   "children": [],
@@ -5604,7 +5707,7 @@
                     "archived": false,
                     "id": 343279550,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-20T05:06:59Z",
+                    "last_commit": "2026-08-24T12:26:59Z",
                     "owner": "intlify",
                     "repo": "bundle-tools",
                     "stars": 270
@@ -5741,7 +5844,7 @@
                     "last_commit": "2026-06-08T12:41:59Z",
                     "owner": "webfansplz",
                     "repo": "vite-plugin-vue-inspector",
-                    "stars": 805
+                    "stars": 806
                   }
                 },
                 {
@@ -5842,7 +5945,7 @@
                     "archived": false,
                     "id": 573411360,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T02:59:13Z",
+                    "last_commit": "2026-08-24T12:04:04Z",
                     "owner": "vitejs",
                     "repo": "vite-plugin-react",
                     "stars": 1148
@@ -5956,11 +6059,179 @@
               "description": null,
               "node_type": "group",
               "title": "Loaders"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "@stylin/vite-plugin",
+                  "description": "Transform CSS and SCSS modules into React components.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 338078634,
+                    "language": "TypeScript",
+                    "last_commit": "2025-01-30T07:10:52Z",
+                    "owner": "sultan99",
+                    "repo": "stylin",
+                    "stars": 180
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Transformers"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "vite-plugin-react-pages",
+                  "description": "A Vite framework for building React app.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 270730201,
+                    "language": "TypeScript",
+                    "last_commit": "2025-12-12T04:13:35Z",
+                    "owner": "vitejs",
+                    "repo": "vite-plugin-react-pages",
+                    "stars": 467
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Framework"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "vite-plugin-react-click-to-component",
+                  "description": "Uses Vite's launch middleware to enable alt+click to go to component.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 556515097,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-06T08:27:29Z",
+                    "owner": "ArnaudBarre",
+                    "repo": "vite-plugin-react-click-to-component",
+                    "stars": 83
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Helpers"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "vite-react-ssg",
+                  "description": "Static-site generation for React.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 664961657,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-03T08:20:10Z",
+                    "owner": "Daydreamer-riri",
+                    "repo": "vite-react-ssg",
+                    "stars": 240
+                  }
+                }
+              ],
+              "description": "💡 SSR frameworks are listed at SSR - Frameworks.",
+              "node_type": "group",
+              "title": "SSG"
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "React"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "@preact/preset-vite",
+                  "description": "Preact preset. HMR, automatic Preact inject, removal of DevTools in prod.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 347163755,
+                    "language": "TypeScript",
+                    "last_commit": "2026-07-18T18:43:06Z",
+                    "owner": "preactjs",
+                    "repo": "preset-vite",
+                    "stars": 307
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Presets"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Preact"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "vite-plugin-svelte",
+                  "description": "Adds Svelte support. Official plugin of Svelte team.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 348488920,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-24T03:09:42Z",
+                    "owner": "sveltejs",
+                    "repo": "vite-plugin-svelte",
+                    "stars": 1041
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Integrations"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "vite-plugin-kit-routes",
+                  "description": "Generates a file with all the routes, params, actions of your SvelteKit App.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 451914608,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-24T09:47:17Z",
+                    "owner": "jycouet",
+                    "repo": "kitql",
+                    "stars": 455
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Helpers"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Svelte"
         },
         {
           "children": [
@@ -6000,6 +6271,28 @@
               "description": null,
               "node_type": "group",
               "title": "Integrations"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "generouted",
+                  "description": "Client-side type-safe file-based routing and global modals — supports layouts, loaders, code-splitting and more.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 479372545,
+                    "language": "TypeScript",
+                    "last_commit": "2026-04-05T09:00:20Z",
+                    "owner": "oedotme",
+                    "repo": "generouted",
+                    "stars": 1214
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Routing"
             }
           ],
           "description": null,
@@ -6012,7 +6305,116 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "vite-plugin-elm",
+                  "description": "A plugin that enables you to compile an Elm module.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 300526373,
+                    "language": "TypeScript",
+                    "last_commit": "2025-10-27T22:00:14Z",
+                    "owner": "hmsk",
+                    "repo": "vite-plugin-elm",
+                    "stars": 220
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Integrations"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Elm"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "vite-plugin-fastify",
+                  "description": "Fastify plugin for Vite with Hot-module Replacement.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 556528892,
+                    "language": "TypeScript",
+                    "last_commit": "2026-01-19T08:04:53Z",
+                    "owner": "Vanilla-IceCream",
+                    "repo": "vite-plugin-fastify",
+                    "stars": 17
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Integrations"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "vite-plugin-fastify-routes",
+                  "description": "File-based routing, similar to SvelteKit and Next.js App Router.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 636158733,
+                    "language": "TypeScript",
+                    "last_commit": "2025-06-24T06:37:16Z",
+                    "owner": "Vanilla-IceCream",
+                    "repo": "vite-plugin-fastify-routes",
+                    "stars": 9
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Routing"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Fastify"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "electron-vite",
+                  "description": "An Electron CLI integrated with Vite.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 457280048,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-18T05:10:43Z",
+                    "owner": "alex8088",
+                    "repo": "electron-vite",
+                    "stars": 5584
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Integrations"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Electron"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "plugins",
                   "description": "Define and resolve aliases for bundle dependencies.",
                   "children": [],
                   "repo_info": {
@@ -6027,7 +6429,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "plugins",
                   "description": "Convert CommonJS modules to ES6.",
                   "children": [],
                   "repo_info": {
@@ -6042,7 +6444,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "plugins",
                   "description": "Resolving dynamic imports that contain variables.",
                   "children": [],
                   "repo_info": {
@@ -6057,7 +6459,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "plugins",
                   "description": "Convert files to ES6 modules.",
                   "children": [],
                   "repo_info": {
@@ -6079,7 +6481,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "plugins",
                   "description": "Compile your files with Babel.",
                   "children": [],
                   "repo_info": {
@@ -6094,7 +6496,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "plugins",
                   "description": "Compile ES2015 with buble.",
                   "children": [],
                   "repo_info": {
@@ -6109,7 +6511,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "plugins",
                   "description": "Import modules from Data URIs.",
                   "children": [],
                   "repo_info": {
@@ -6124,7 +6526,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "plugins",
                   "description": "Create HTML files to serve Rollup bundles.",
                   "children": [],
                   "repo_info": {
@@ -6139,7 +6541,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "plugins",
                   "description": "Locate and bundle third-party dependencies in node_modules.",
                   "children": [],
                   "repo_info": {
@@ -6154,7 +6556,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "plugins",
                   "description": "Compile TypeScript, Flow, JSX, etc with Sucrase.",
                   "children": [],
                   "repo_info": {
@@ -6169,7 +6571,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "plugins",
                   "description": "Integration between Rollup and TypeScript.",
                   "children": [],
                   "repo_info": {
@@ -6184,7 +6586,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "plugins",
                   "description": "Import WebAssembly code with Rollup.",
                   "children": [],
                   "repo_info": {
@@ -6199,7 +6601,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "plugins",
                   "description": "Import files as data-URIs or ES Modules.",
                   "children": [],
                   "repo_info": {
@@ -6221,7 +6623,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "plugins",
                   "description": "System beeps on errors and warnings.",
                   "children": [],
                   "repo_info": {
@@ -6236,7 +6638,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "plugins",
                   "description": "Convert and files into JavaScript modules with d3-dsv.",
                   "children": [],
                   "repo_info": {
@@ -6251,7 +6653,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "plugins",
                   "description": "Verify entry point and all imported files with ESLint.",
                   "children": [],
                   "repo_info": {
@@ -6266,7 +6668,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "plugins",
                   "description": "Convert .gql/.graphql files to ES6 modules.",
                   "children": [],
                   "repo_info": {
@@ -6281,7 +6683,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "plugins",
                   "description": "Import JPG, PNG, GIF, SVG, and WebP files (needs ).",
                   "children": [],
                   "repo_info": {
@@ -6296,7 +6698,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "plugins",
                   "description": "Scan modules for global variables and injects import statements where necessary.",
                   "children": [],
                   "repo_info": {
@@ -6311,7 +6713,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "plugins",
                   "description": "Add export declarations to legacy non-module scripts.",
                   "children": [],
                   "repo_info": {
@@ -6326,7 +6728,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "plugins",
                   "description": "Replace strings in files while bundling.",
                   "children": [],
                   "repo_info": {
@@ -6341,7 +6743,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "plugins",
                   "description": "Remove debugger statements and functions from your code.",
                   "children": [],
                   "repo_info": {
@@ -6356,7 +6758,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "plugins",
                   "description": "A Rollup plugin that loads virtual modules from memory.",
                   "children": [],
                   "repo_info": {
@@ -6371,7 +6773,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "plugins",
                   "description": "Convert YAML files to ES6 modules.",
                   "children": [],
                   "repo_info": {
@@ -6418,6 +6820,28 @@
               "description": null,
               "node_type": "group",
               "title": "Compatible with Vite"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Check the Awesome Rollup list",
+                  "description": "for community-maintained Rollup plugins, and refer to the Vite docs section about Rollup plugin compatibility.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 142582064,
+                    "language": null,
+                    "last_commit": "2026-07-18T15:26:13Z",
+                    "owner": "rollup",
+                    "repo": "awesome",
+                    "stars": 2708
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Community"
             }
           ],
           "description": null,
@@ -6444,7 +6868,7 @@
                 "last_commit": "2026-08-24T09:04:22Z",
                 "owner": "vikejs",
                 "repo": "vike",
-                "stars": 5811
+                "stars": 5812
               }
             },
             {
@@ -6576,7 +7000,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "fastify-dx",
               "description": "Allowing you to serve static or live (SSR).",
               "children": [],
               "repo_info": {
@@ -6645,6 +7069,28 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Craft Vite",
+              "description": "Plugin for integration with Craft CMS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 362803106,
+                "language": "PHP",
+                "last_commit": "2026-08-01T20:38:31Z",
+                "owner": "nystudio107",
+                "repo": "craft-vite",
+                "stars": 55
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Craft CMS"
+        },
         {
           "children": [
             {
@@ -6760,6 +7206,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "cakephp-vite",
+              "description": "Integration for CakePHP.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 450270563,
+                "language": "PHP",
+                "last_commit": "2026-01-25T17:07:48Z",
+                "owner": "brandcom",
+                "repo": "cakephp-vite",
+                "stars": 23
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CakePHP"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "WordPlate",
               "description": "Starter app with Composer.",
               "children": [],
@@ -6785,7 +7253,7 @@
                 "last_commit": "2026-01-11T08:10:57Z",
                 "owner": "idleberg",
                 "repo": "php-wordpress-vite-assets",
-                "stars": 150
+                "stars": 151
               }
             },
             {
@@ -6849,6 +7317,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "vite",
+              "description": "Integration with Go.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 815880772,
+                "language": "Go",
+                "last_commit": "2025-06-16T18:22:34Z",
+                "owner": "olivere",
+                "repo": "vite",
+                "stars": 217
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Go"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "create-rust-app",
               "description": "Integration for Rust web apps.",
               "children": [],
@@ -6886,6 +7376,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Vite Bundle",
+              "description": "Integration for Symfony.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 356825230,
+                "language": "PHP",
+                "last_commit": "2026-03-22T11:42:12Z",
+                "owner": "lhapaipai",
+                "repo": "vite-bundle",
+                "stars": 279
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Symfony"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "vite-plugin-shopify",
+              "description": "Integration for Shopify themes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 499586135,
+                "language": "TypeScript",
+                "last_commit": "2026-08-17T01:08:04Z",
+                "owner": "barrel",
+                "repo": "shopify-vite",
+                "stars": 458
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Shopify"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "vite-express",
               "description": "Integration for Express web apps.",
               "children": [],
@@ -6918,6 +7452,50 @@
           "description": null,
           "node_type": "group",
           "title": "Node.js"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Vite.AspNetCore",
+              "description": "Integration with ASP.NET Core projects.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 589442586,
+                "language": "C#",
+                "last_commit": "2026-08-11T10:24:53Z",
+                "owner": "Eptagone",
+                "repo": "Vite.AspNetCore",
+                "stars": 383
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ASP.NET Core"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "vite-plugin-twig-drupal",
+              "description": "Support for Twig with includes/embeds and Drupal specific twig features.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 705405829,
+                "language": "JavaScript",
+                "last_commit": "2026-05-05T21:05:26Z",
+                "owner": "larowlan",
+                "repo": "vite-plugin-twig-drupal",
+                "stars": 43
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Drupal"
         },
         {
           "children": [
@@ -6988,10 +7566,10 @@
                 "archived": false,
                 "id": 348060227,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T07:10:54Z",
+                "last_commit": "2026-08-24T13:48:37Z",
                 "owner": "withastro",
                 "repo": "astro",
-                "stars": 61991
+                "stars": 61997
               }
             },
             {
@@ -7006,7 +7584,7 @@
                 "last_commit": "2026-08-24T04:52:54Z",
                 "owner": "slidevjs",
                 "repo": "slidev",
-                "stars": 48191
+                "stars": 48194
               }
             },
             {
@@ -7018,7 +7596,7 @@
                 "archived": false,
                 "id": 260338399,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T22:29:19Z",
+                "last_commit": "2026-08-24T11:45:14Z",
                 "owner": "vuejs",
                 "repo": "vitepress",
                 "stars": 18230
@@ -7036,7 +7614,7 @@
                 "last_commit": "2026-08-22T00:18:53Z",
                 "owner": "wxt-dev",
                 "repo": "wxt",
-                "stars": 10393
+                "stars": 10395
               }
             },
             {
@@ -7048,7 +7626,7 @@
                 "archived": false,
                 "id": 337414495,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T08:36:09Z",
+                "last_commit": "2026-08-24T13:22:14Z",
                 "owner": "nhost",
                 "repo": "nhost",
                 "stars": 9280
@@ -7193,7 +7771,7 @@
                 "last_commit": "2026-08-24T07:15:09Z",
                 "owner": "antfu-collective",
                 "repo": "icones",
-                "stars": 7440
+                "stars": 7441
               }
             },
             {
@@ -7208,7 +7786,7 @@
                 "last_commit": "2026-07-05T07:33:00Z",
                 "owner": "PuruVJ",
                 "repo": "macos-web",
-                "stars": 2658
+                "stars": 2657
               }
             },
             {
@@ -7326,7 +7904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:12:39.426Z",
+    "last_updated": "2026-08-24T13:50:47.616Z",
     "original_repository": "vitejs/awesome-vite",
     "original_repository_id": 289191277,
     "original_repository_sha": "ec6b41d8295ed4a18a58778a1219aa430bb55963",
