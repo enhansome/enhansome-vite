@@ -32,9 +32,9 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 
 ### Official Resources
 
-* [GitHub Repo](https://github.com/vitejs/vite) ⭐ 84,099 | 🐛 829 | 🌐 TypeScript | 📅 2026-11-25
-* [Release Notes](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md) ⭐ 84,099 | 🐛 829 | 🌐 TypeScript | 📅 2026-11-25
-* [Awesome Vue](https://github.com/vuejs/awesome-vue) ⭐ 73,459 | 🐛 118 | 📅 2026-11-03
+* [GitHub Repo](https://github.com/vitejs/vite) ⭐ 84,120 | 🐛 830 | 🌐 TypeScript | 📅 2026-11-26
+* [Release Notes](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md) ⭐ 84,120 | 🐛 830 | 🌐 TypeScript | 📅 2026-11-26
+* [Awesome Vue](https://github.com/vuejs/awesome-vue) ⭐ 73,456 | 🐛 119 | 📅 2026-11-03
 * [Documentation](https://vitejs.dev/)
 * [Vue 3 Docs](https://vuejs.org/)
 * [Migration from v4](https://vitejs.dev/guide/migration.html)
@@ -43,13 +43,13 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 
 ## Get Started
 
-* [create-vite](https://github.com/vitejs/vite/tree/main/packages/create-vite) ⭐ 84,099 | 🐛 829 | 🌐 TypeScript | 📅 2026-11-25 - Scaffolding Your First Vite Project.
-* [create-nx-workspace](https://github.com/nrwl/nx) ⭐ 29,495 | 🐛 418 | 🌐 TypeScript | 📅 2026-11-25 - Scaffolding a Nx + React + Vite + Vitest.
+* [create-vite](https://github.com/vitejs/vite/tree/main/packages/create-vite) ⭐ 84,120 | 🐛 830 | 🌐 TypeScript | 📅 2026-11-26 - Scaffolding Your First Vite Project.
+* [create-nx-workspace](https://github.com/nrwl/nx) ⭐ 29,499 | 🐛 413 | 🌐 TypeScript | 📅 2026-11-26 - Scaffolding a Nx + React + Vite + Vitest.
 * [bati](https://github.com/batijs/bati) ⭐ 490 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-23 - Scaffolding a Vike project.
-* [create-vite-app](https://github.com/ErKeLost/create-vite-app) ⭐ 246 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-23 - Scaffolding Your Out Of The Box Vite Project.
+* [create-vite-app](https://github.com/ErKeLost/create-vite-app) ⭐ 246 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-25 - Scaffolding Your Out Of The Box Vite Project.
 * [create-electron-vite](https://github.com/electron-vite/create-electron-vite) ⭐ 238 | 🐛 16 | 🌐 TypeScript | 📅 2024-10-31 - Scaffolding Your Electron + Vite Project.
 * [create-vitawind](https://github.com/huibizhang/vitawind/tree/package/create-vitawind) ⭐ 166 | 🐛 5 | 🌐 HTML | 📅 2024-06-20 - Scaffolding for Tailwind CSS project.
-* [create-awesome-node-app](https://github.com/Create-Node-App/create-node-app) ⭐ 92 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-19 - Scaffolding your project choosing between different templates.
+* [create-awesome-node-app](https://github.com/Create-Node-App/create-node-app) ⭐ 92 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-26 - Scaffolding your project choosing between different templates.
 * [create-nitro-app](https://github.com/nitrojs/create-nitro-app) ⭐ 19 | 🐛 3 | 🌐 JavaScript | 📅 2026-11-21 - Scaffolding your Full-Stack Vite project using Nitro.
 
 ### Templates
@@ -75,24 +75,24 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 
 #### Vue 3
 
-* [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) ⭐ 33,861 | 🐛 27 | 🌐 TypeScript | 📅 2026-11-25 - Background management template based on Vue3, Ant-Design-Vue, TypeScript.
-* [vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin) ⭐ 20,785 | 🐛 2 | 🌐 Vue | 📅 2026-10-12 - Background management template based on Vue3, TypeScript, Tailwind CSS, element-plus.
-* [Vitesse](https://github.com/antfu/vitesse) ⭐ 9,435 | 🐛 31 | 🌐 TypeScript | 📅 2026-10-06 - Opinionated starter template.
-* [Vue Naive](https://github.com/zclzone/vue-naive-admin) ⭐ 3,982 | 🐛 1 | 🌐 Vue | 📅 2026-08-29 - Admin template, base on Vue 3 + Pinia + Naive UI.
-* [vitesse-webext](https://github.com/antfu/vitesse-webext) ⭐ 3,375 | 🐛 26 | 🌐 TypeScript | 📅 2026-03-03 - WebExtension Vite Starter Template.
-* [vue3-vant-mobile](https://github.com/easy-temps/vue3-vant-mobile) ⭐ 2,070 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-11 - Vite5 + Vue3 + Vant4 + Pinia + Vue-Router4 + TypeScript Mobile Template.
+* [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) ⭐ 33,874 | 🐛 27 | 🌐 TypeScript | 📅 2026-11-25 - Background management template based on Vue3, Ant-Design-Vue, TypeScript.
+* [vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin) ⭐ 20,790 | 🐛 2 | 🌐 Vue | 📅 2026-10-12 - Background management template based on Vue3, TypeScript, Tailwind CSS, element-plus.
+* [Vitesse](https://github.com/antfu/vitesse) ⭐ 9,436 | 🐛 31 | 🌐 TypeScript | 📅 2026-10-06 - Opinionated starter template.
+* [Vue Naive](https://github.com/zclzone/vue-naive-admin) ⭐ 3,983 | 🐛 1 | 🌐 Vue | 📅 2026-08-29 - Admin template, base on Vue 3 + Pinia + Naive UI.
+* [vitesse-webext](https://github.com/antfu/vitesse-webext) ⭐ 3,376 | 🐛 26 | 🌐 TypeScript | 📅 2026-03-03 - WebExtension Vite Starter Template.
+* [vue3-vant-mobile](https://github.com/easy-temps/vue3-vant-mobile) ⭐ 2,071 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-11 - Vite5 + Vue3 + Vant4 + Pinia + Vue-Router4 + TypeScript Mobile Template.
 * [vue-admin-box](https://github.com/cmdparkour/vue-admin-box) ⭐ 1,838 | 🐛 1 | 🌐 Vue | 📅 2025-05-07 - Admin template, based on Vue 3 + Element-plus.
-* [vitesse-lite](https://github.com/antfu/vitesse-lite) ⭐ 1,252 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-08 - Lightweight version of Vitesse.
-* [fast-crud](https://github.com/fast-crud/fast-crud) ⭐ 1,151 | 🐛 38 | 🌐 TypeScript | 📅 2026-11-03 - Options-oriented crud framework, developing crud as fast as lightning.
+* [vitesse-lite](https://github.com/antfu/vitesse-lite) ⭐ 1,251 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-08 - Lightweight version of Vitesse.
+* [fast-crud](https://github.com/fast-crud/fast-crud) ⭐ 1,150 | 🐛 38 | 🌐 TypeScript | 📅 2026-11-03 - Options-oriented crud framework, developing crud as fast as lightning.
 * [antdv-pro](https://github.com/antdv-pro/antdv-pro) ⭐ 863 | 🐛 9 | 🌐 TypeScript | 📅 2026-02-26 - AntdvPro is a complete set of enterprise-level mid-backend front-end/design solutions based on Vue3, Vite4, ant-design-vue4, Pinia, UnoCSS and TypeScript.
 * [celeris-web](https://github.com/kirklin/celeris-web) ⭐ 495 | 🐛 7 | 🌐 TypeScript | 📅 2025-04-28 - Template based on `Vite` + `Vue3` + `TypeScript` + `Vue-Router` + `Pinia` + `Unocss` + `Naive UI` + `pnpm Monorepo`.
-* [vite-ts-tailwind-starter](https://github.com/Uninen/vite-ts-tailwind-starter) ⭐ 472 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-24 - TypeScript, Tailwind CSS, Cypress.io e2e tests + CI.
+* [vite-ts-tailwind-starter](https://github.com/Uninen/vite-ts-tailwind-starter) ⭐ 472 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-26 - TypeScript, Tailwind CSS, Cypress.io e2e tests + CI.
 * [boot-vue](https://github.com/kirklin/boot-vue) ⭐ 275 | 🐛 0 | 🌐 Vue | 📅 2026-10-11 - Starter template with TypeScript + UnoCSS + DaisyUI + Vue Router + Pinia.
 * [arco-admin](https://github.com/LIjiAngChen8/arco-admin) ⭐ 194 | 🐛 15 | 🌐 Vue | 📅 2026-03-01 - `Vite` + `ArcoDesign` + `TypeScript` follows `ESM` standards, offering an out-of-the-box,standardized, feature-rich template for middle and back-office management systems.
 * [vite-vue-js-starter-template](https://github.com/ElanYoung/vite-vue-js-starter-template) ⭐ 183 | 🐛 4 | 🌐 JavaScript | 📅 2025-05-28 - Vite + Vue3 + JavaScript + Vue Router + Pinia + TDesign + ESLint + Stylelint + Prettier Simple Template.
 * [vite-ts-starter](https://github.com/pdsuwwz/vite-ts-starter) ⭐ 158 | 🐛 0 | 🌐 Vue | 📅 2025-12-19 - Vue `I18n` Dynamic Router Localization Template, Internationalized Applications with `UnoCSS` + `Unplugin` + `Element-Plus` + `Vitest` + `TypeScript` + `Vue-Router` + `Vuex` + `Scss` + `ESLint` + `Stylelint` + `Husky` + `lint-staged`.
 * [materio-free-vuetify-nuxtjs-admin-template](https://github.com/themeselection/materio-vuetify-nuxtjs-admin-template-free) ⭐ 86 | 🐛 0 | 🌐 Vue | 📅 2026-02-04 - Vue.js 3, Vite 5, Vuetify 3 & Nuxt.js 3.
-* [naive-ui-dashboard-template](https://github.com/Innei/naive-ui-dashboard-template) ⭐ 57 | 🐛 7 | 🌐 HTML | 📅 2026-11-25 - UI friendly, Vue 3 + TSX + Tailwind CSS 2 JIT + PostCSS + Naive UI.
+* [naive-ui-dashboard-template](https://github.com/Innei/naive-ui-dashboard-template) ⭐ 57 | 🐛 7 | 🌐 HTML | 📅 2026-11-26 - UI friendly, Vue 3 + TSX + Tailwind CSS 2 JIT + PostCSS + Naive UI.
 * [vite-vue3-tailwind4-daisyui5-starter-template](https://github.com/martinille/starter-template-vite-vue3-sass-tailwind4-daisyui5) ⭐ 50 | 🐛 1 | 🌐 Vue | 📅 2026-08-21 - Starter template with Vue 3 + Vite + Tailwind CSS 4 + DaisyUI 5 + Sass.
 * [vue3-tailwind3-website-starter](https://github.com/feitian124/vue3-tailwind3-website-starter.git) ⭐ 44 | 🐛 0 | 🌐 Vue | 📅 2024-04-10 - Vue3 / Vite / Tailwind CSS website starter template, with guides on each page.
 * [vue-file-upload](https://github.com/canopas/vue-file-upload) ⚠️ Archived - A file management system built with `Vue3` and `TypeScript` that allows for single and multiple file uploading with a preview feature.
@@ -118,14 +118,14 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 * [React Starter Kit](https://github.com/kriasoft/react-starter-kit) ⭐ 23,728 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-09 - Jamstack, React, React Router, Material UI, Firebase Auth, TypeScript, ESLint, Prettier, Jest, GitHub Actions.
 * [chrome-extension-boilerplate-react-vite](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite) ⚠️ Archived - React + TypeScript + SASS + Prettier + ESLint + GitHub Actions + HMR(Hot Module Reload) + Turborepo + Chrome Extension Manifest v3.
 * [reactjs-vite-tailwindcss-boilerplate](https://github.com/joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate) ⭐ 730 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-11 - React 18, TypeScript, Vitest, Testing Library, Tailwind CSS 3, Eslint and Prettier.
-* [React-PWA](https://github.com/suren-atoyan/react-pwa) ⭐ 717 | 🐛 12 | 🌐 TypeScript | 📅 2026-01-22 - React v18, TypeScript, Vite, React Router v6, MUI v5, Recoil, PWA, Eslint, Prettier, Husky, lint-staged, https localhost and more.
+* [React-PWA](https://github.com/suren-atoyan/react-pwa) ⭐ 718 | 🐛 12 | 🌐 TypeScript | 📅 2026-01-22 - React v18, TypeScript, Vite, React Router v6, MUI v5, Recoil, PWA, Eslint, Prettier, Husky, lint-staged, https localhost and more.
 * [Vitamin](https://github.com/wtchnm/Vitamin) ⭐ 622 | 🐛 1 | 🌐 TypeScript | 📅 2026-04-06 - React TypeScript, Tailwind CSS, SPA + PWA, Cypress and CI.
 * [vite-react-ts-tailwind-firebase-starter](https://github.com/TeXmeijin/vite-react-ts-tailwind-firebase-starter) ⭐ 305 | 🐛 16 | 🌐 TypeScript | 📅 2026-11-25 - Starter using Vite + React + TypeScript + Tailwind CSS (daisyUI) + Firebase (v9) + Prettier + ESLint.
-* [template-vite-react](https://github.com/lzm0x219/template-vite-react) ⭐ 197 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-25 - A minimal React Vite starter template.
+* [template-vite-react](https://github.com/lzm0x219/template-vite-react) ⭐ 197 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-26 - A minimal React Vite starter template.
 * [create-react-app-vite](https://github.com/laststance/create-react-app-vite) ⭐ 161 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-25 - React, TypeScript, Tailwind CSS, MSW, Vitest, React Testing Library, ESLint, Prettier, GitHub Actions.
 * [vite-rtk-query](https://github.com/laststance/vite-rtk-query) ⭐ 155 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-24 - React, TypeScript, Redux Toolkit, RTK Query, Tailwind CSS, MSW, Jest, React Testing Library, ESLint, Prettier.
 * [vitejs-template-react-rescript](https://github.com/jihchi/vitejs-template-react-rescript) ⭐ 134 | 🐛 1 | 🌐 ReScript | 📅 2025-09-13 - React + ReScript.
-* [react-vite-ts-boilerplate](https://github.com/choisohyun/react-vite-ts-boilerplate) ⭐ 128 | 🐛 16 | 🌐 TypeScript | 📅 2026-11-16 - React 18, TypeScript, SCSS, ESLint, Prettier, Vitest.
+* [react-vite-ts-boilerplate](https://github.com/choisohyun/react-vite-ts-boilerplate) ⭐ 128 | 🐛 16 | 🌐 TypeScript | 📅 2026-11-25 - React 18, TypeScript, SCSS, ESLint, Prettier, Vitest.
 * [vite-react-ts-template](https://github.com/bartstc/vite-ts-react-template) ⭐ 124 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-22 - React 18, TypeScript, ESlint, Prettier, Dev Container, Vitest, Storybook, Playwright, MSW, React Router 6, React Query, Chakra UI, Zustand.
 * [vite-react-ts-shadcn-starter](https://github.com/Quilljou/vite-react-ts-tailwind-starter) ⭐ 124 | 🐛 0 | 🌐 TypeScript | 📅 2025-08-06 - Template for creating `React 18` SPA apps with `TypeScript`, `React Router`, `Tailwind CSS`, `Shadcn UI`, `React Query`, `ESLint`, `Prettier`, `Stylelint`, `Husky`, `React-i18next`, `Transmart`.
 * [vite-react-chakra-starter](https://github.com/sozonome/vite-react-chakra-starter) ⭐ 122 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-26 - Starter template for creating React App with TypeScript and Chakra UI. Configured with ESLint, Prettier, and Husky.
@@ -143,7 +143,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 * [react-xs-admin](https://github.com/jsxiaosi/react-xs-admin) ⭐ 47 | 🐛 0 | 🌐 TypeScript | 📅 2025-07-20 - The background management system template developed based on React18 + ReactRouteV6 + Vite + And Design + ReactIntl + ReactRedux + Emulation.
 * [viterjs-template](https://github.com/emre-cil/viterjs-template) ⚠️ Archived - React + JavaScript + Redux + Material UI + Axios + ESLint + Prettier.
 * [react-admin-dashboard](https://github.com/larry-xue/react-admin-dashboard) ⭐ 43 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-21 - Dashboard template with `TypeScript`, `Vite`, `Ant Design`, `React Router`, `Zustand`, `Ant Design Charts`.
-* [vite-react-ssr-boost-template](https://github.com/Lomray-Software/vite-template) ⭐ 40 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-25 - Template for creating `React 18` SSR/SPA apps with `TypeScript`, `Mobx`, `React Router`, `Head Manager`, Suspense, Streaming. Also included CI/CD, `ESLint`, `Prettier`, `Stylelint`, `Husky`, `Semantic Release`.
+* [vite-react-ssr-boost-template](https://github.com/Lomray-Software/vite-template) ⭐ 40 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-25 - Template for creating `React 18` SSR/SPA apps with `TypeScript`, `Mobx`, `React Router`, `Head Manager`, Suspense, Streaming. Also included CI/CD, `ESLint`, `Prettier`, `Stylelint`, `Husky`, `Semantic Release`.
 * [Viterts](https://github.com/erdoganbulut/viterts/) ⭐ 38 | 🐛 6 | 🌐 TypeScript | 📅 2024-03-05 - React + TypeScript + Redux + React Router + Jest + ESLint + Airbnb + Prettier + SASS.
 * [react-vite-template](https://github.com/985563349/react-vite-template) ⭐ 31 | 🐛 1 | 🌐 TypeScript | 📅 2024-09-26 - A react project template.
 * [ReTail](https://github.com/nikolailehbrink/retail) ⭐ 31 | 🐛 0 | 🌐 TypeScript | 📅 2025-12-30 - Starter template for building Full Stack WEB applications with `Remix` using `TypeScript`, `Tailwind CSS`, `Prettier` and `ESLint`.
@@ -177,7 +177,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 
 #### Svelte
 
-* [SvelteKit](https://github.com/sveltejs/kit) ⭐ 20,924 | 🐛 935 | 🌐 JavaScript | 📅 2026-11-25 - The fastest way to build Svelte apps.
+* [SvelteKit](https://github.com/sveltejs/kit) ⭐ 20,928 | 🐛 935 | 🌐 JavaScript | 📅 2026-11-26 - The fastest way to build Svelte apps.
 * [svelte-vite-ssr](https://github.com/jiangfengming/svelte-vite-ssr) ⭐ 61 | 🐛 0 | 🌐 TypeScript | 📅 2025-03-20 - Svelte with SSR support.
 * [vite-svelte-flow-template](https://github.com/xyflow/vite-svelte-flow-template) ⭐ 33 | 🐛 0 | 🌐 Svelte | 📅 2026-11-17 - Svelte Flow starter template.
 * [template-vite-svelte-ts-tailwind](https://github.com/RoyRao2333/template-vite-svelte-ts-tailwind) ⭐ 11 | 🐛 0 | 📅 2024-02-01 - Svelte + TypeScript + Tailwind CSS + Prettier.
@@ -190,24 +190,24 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 
 #### Electron
 
-* [electron-vite-vue](https://github.com/electron-vite/electron-vite-vue) ⭐ 4,892 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-01 - Electron + Vite + Vue template.
+* [electron-vite-vue](https://github.com/electron-vite/electron-vite-vue) ⭐ 4,891 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-01 - Electron + Vite + Vue template.
 * [vite-electron-builder](https://github.com/cawa-93/vite-electron-builder/) ⭐ 2,989 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-03 - Electron apps using Vite for both back and front-end, with automatic releases.
 * [electron-vite-react](https://github.com/electron-vite/electron-vite-react) ⭐ 2,438 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-01 - Electron + Vite + React template.
 * [electron-vue-template](https://github.com/Deluze/electron-vue-template) ⭐ 686 | 🐛 10 | 🌐 JavaScript | 📅 2024-09-29 - Electron template with TypeScript, including Electron Builder.
 * [electron-vite-template](https://github.com/umbrella22/electron-vite-template) ⭐ 515 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-10 - Electron 13, Vue 3 and TypeScript. Make your desktop development easier.
-* [fast-vite-nestjs-electron](https://github.com/ArcherGu/fast-vite-nestjs-electron) ⭐ 376 | 🐛 2 | 🌐 Vue | 📅 2026-11-24 - Vue3 + Vite + Electron + Nestjs with esbuild.
+* [fast-vite-nestjs-electron](https://github.com/ArcherGu/fast-vite-nestjs-electron) ⭐ 376 | 🐛 3 | 🌐 Vue | 📅 2026-11-26 - Vue3 + Vite + Electron + Nestjs with esbuild.
 * [vite-reactts-electron-starter](https://github.com/maxstue/vite-reactts-electron-starter) ⭐ 351 | 🐛 6 | 🌐 TypeScript | 📅 2024-07-12 - React, Tailwind CSS, TypeScript and Electron.
 * [Vutron](https://github.com/jooy2/vutron) ⭐ 331 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-26 - Electron + Vite + Vue 3 + Pinia (TypeScript) template.
-* [fast-vite-electron](https://github.com/ArcherGu/fast-vite-electron) ⭐ 269 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-24 - Vue3 + Vite + Electron with esbuild.
-* [vite-plugin-electron-quick-start](https://github.com/electron-vite/vite-plugin-electron-quick-start) ⭐ 267 | 🐛 15 | 🌐 TypeScript | 📅 2024-11-16 - Template for Electron projects.
+* [fast-vite-electron](https://github.com/ArcherGu/fast-vite-electron) ⭐ 269 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-26 - Vue3 + Vite + Electron with esbuild.
+* [vite-plugin-electron-quick-start](https://github.com/electron-vite/vite-plugin-electron-quick-start) ⭐ 266 | 🐛 15 | 🌐 TypeScript | 📅 2024-11-16 - Template for Electron projects.
 * [electron-vite-boilerplate](https://github.com/electron-vite/electron-vite-boilerplate) ⭐ 212 | 🐛 2 | 🌐 TypeScript | 📅 2024-05-01 - Support SerialPort, SQLite3 and node C/C++ addons.
-* [vite-plugin-doubleshot](https://github.com/Doubleshotjs/doubleshot/tree/main/packages/plugin-vite) ⭐ 210 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-23 - For building Node.js backend or Electron main process.
+* [vite-plugin-doubleshot](https://github.com/Doubleshotjs/doubleshot/tree/main/packages/plugin-vite) ⭐ 210 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-26 - For building Node.js backend or Electron main process.
 * [vite-electron-plugin](https://github.com/electron-vite/vite-electron-plugin) ⭐ 53 | 🐛 6 | 🌐 TypeScript | 📅 2023-12-03 - High-performance, esbuild-based Vite Electron plugin.
 * [Vitron](https://github.com/tada5hi/vitron) ⭐ 21 | 🐛 15 | 🌐 TypeScript | 📅 2026-11-24 - Build beautiful (win, Linux, mac) desktop apps for modern web projects with Vite and electron.
 
 ### Tauri
 
-* [HuLa](https://github.com/HuLaSpark/HuLa) ⭐ 7,882 | 🐛 22 | 🌐 Vue | 📅 2026-11-24 - is a desktop instant messaging app built on `Vite 5` + `Vue 3` + `TypeScript` + `Tauri` (not just instant messaging).
+* [HuLa](https://github.com/HuLaSpark/HuLa) ⭐ 7,888 | 🐛 22 | 🌐 Vue | 📅 2026-11-24 - is a desktop instant messaging app built on `Vite 5` + `Vue 3` + `TypeScript` + `Tauri` (not just instant messaging).
 
 #### Neutralino
 
@@ -247,22 +247,22 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 
 #### Integrations
 
-* [`@storybook/builder-vite`](https://github.com/storybookjs/storybook/tree/next/code/builders/builder-vite/) ⭐ 91,724 | 🐛 1,910 | 🌐 TypeScript | 📅 2026-11-25 - Storybook builder.
-* [@vitejs/plugin-legacy](https://github.com/vitejs/vite/tree/main/packages/plugin-legacy) ⭐ 84,099 | 🐛 829 | 🌐 TypeScript | 📅 2026-11-25 - Legacy browser support.
-* [@builder.io/partytown](https://github.com/BuilderIO/partytown) ⭐ 13,835 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-09 - Relocate resource intensive third-party scripts off of the main thread and into a web worker.
-* [vite-plugin-pwa](https://github.com/antfu/vite-plugin-pwa) ⭐ 4,315 | 🐛 192 | 🌐 TypeScript | 📅 2026-10-09 - Zero-config PWA.
+* [`@storybook/builder-vite`](https://github.com/storybookjs/storybook/tree/next/code/builders/builder-vite/) ⭐ 91,733 | 🐛 1,890 | 🌐 TypeScript | 📅 2026-11-26 - Storybook builder.
+* [@vitejs/plugin-legacy](https://github.com/vitejs/vite/tree/main/packages/plugin-legacy) ⭐ 84,120 | 🐛 830 | 🌐 TypeScript | 📅 2026-11-26 - Legacy browser support.
+* [@builder.io/partytown](https://github.com/BuilderIO/partytown) ⭐ 13,836 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-09 - Relocate resource intensive third-party scripts off of the main thread and into a web worker.
+* [vite-plugin-pwa](https://github.com/antfu/vite-plugin-pwa) ⭐ 4,316 | 🐛 193 | 🌐 TypeScript | 📅 2026-10-09 - Zero-config PWA.
 * [vite-plugin-federation](https://github.com/originjs/vite-plugin-federation) ⭐ 3,039 | 🐛 236 | 🌐 TypeScript | 📅 2025-05-17 - Support Module Federation, Inspired by Webpack Module Federation feature.
-* [vite-plugin-checker](https://github.com/fi3ework/vite-plugin-checker) ⭐ 1,254 | 🐛 14 | 🌐 TypeScript | 📅 2026-11-24 - Fast run checkers (TypeScript/VLS/vue-tsc, etc.) in worker threads with overlay and terminal hint.
+* [vite-plugin-checker](https://github.com/fi3ework/vite-plugin-checker) ⭐ 1,254 | 🐛 15 | 🌐 TypeScript | 📅 2026-11-24 - Fast run checkers (TypeScript/VLS/vue-tsc, etc.) in worker threads with overlay and terminal hint.
 * [vite-plugin-node](https://github.com/axe-me/vite-plugin-node) ⭐ 1,130 | 🐛 40 | 🌐 TypeScript | 📅 2026-03-26 - Integration with Node.js backend servers.
 * [remix-development-tools](https://github.com/forge42dev/Remix-Dev-Tools) ⭐ 975 | 🐛 23 | 🌐 TypeScript | 📅 2026-07-28 - Plugin for Remix.run development tools.
 * [vite-plugin-electron](https://github.com/electron-vite/vite-plugin-electron) ⭐ 920 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-31 - Integrate Vite and Electron.
-* [`module-federation/vite`](https://github.com/module-federation/vite) ⭐ 898 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-25 - Official Module Federation integration, enabling dynamic remote module loading.
+* [`module-federation/vite`](https://github.com/module-federation/vite) ⭐ 898 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-25 - Official Module Federation integration, enabling dynamic remote module loading.
 * [vite-plugin-windicss](https://github.com/windicss/vite-plugin-windicss) ⭐ 845 | 🐛 34 | 🌐 TypeScript | 📅 2024-11-29 - Windi CSS integration.
 * [unplugin-fonts](https://github.com/cssninjaStudio/unplugin-fonts) ⭐ 430 | 🐛 20 | 🌐 TypeScript | 📅 2026-11-20 - Load font from Typekit, Google Fonts, Fontsource or your own custom one.
 * [vite-plugin-webfont-dl](https://github.com/feat-agency/vite-plugin-webfont-dl) ⭐ 383 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-14 - Downloads and injects webfonts (Google Fonts) to improve website's performance.
 * [vite-plugin-tauri](https://github.com/amrbashir/vite-plugin-tauri) ⭐ 292 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-28 - Integrate Tauri in a Vite project to build cross-platform apps.
 * [vite-plugin-cesium](https://github.com/nshen/vite-plugin-cesium) ⭐ 280 | 🐛 13 | 🌐 TypeScript | 📅 2024-09-11 - Integration with Cesium library.
-* [vite-plugin-wasm-pack](https://github.com/nshen/vite-plugin-wasm-pack) ⭐ 273 | 🐛 24 | 🌐 TypeScript | 📅 2024-07-31 - Integration with rust [wasm-pack](https://github.com/rustwasm/wasm-pack) ⭐ 7,310 | 🐛 388 | 🌐 Rust | 📅 2026-11-11, the simple way.
+* [vite-plugin-wasm-pack](https://github.com/nshen/vite-plugin-wasm-pack) ⭐ 273 | 🐛 24 | 🌐 TypeScript | 📅 2024-07-31 - Integration with rust [wasm-pack](https://github.com/rustwasm/wasm-pack) ⭐ 7,312 | 🐛 388 | 🌐 Rust | 📅 2026-11-11, the simple way.
 * [vite-plugin-comlink](https://github.com/mathe42/vite-plugin-comlink) ⭐ 238 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-25 - Use WebWorkers with the power of [Comlink](https://github.com/GoogleChromeLabs/comlink) ⭐ 12,816 | 🐛 125 | 🌐 TypeScript | 📅 2026-11-24 to make them enjoyable.
 * [vite-plugin-virtual-mpa](https://github.com/emosheeep/vite-plugin-virtual-mpa) ⭐ 153 | 🐛 8 | 🌐 TypeScript | 📅 2024-08-08 - Out-of-box MPA plugin, with html template engine and virtual files support, which generate multiple files using only one template.
 * [vite-plugin-commonjs](https://github.com/vite-plugin/vite-plugin-commonjs) ⭐ 138 | 🐛 17 | 🌐 TypeScript | 📅 2024-12-24 - A pure JavaScript implementation for CommonJs.
@@ -275,8 +275,8 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 * [vite-plugin-biome](https://github.com/skrulling/vite-plugin-biome) ⭐ 74 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-06 - Biome linter.
 * [vite-plugin-legacy-swc](https://github.com/CyanSalt/vite-plugin-legacy-swc) ⭐ 70 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-21 - Legacy browser support with SWC.
 * [vite-plugin-babel](https://github.com/owlsdepartment/vite-plugin-babel) ⭐ 67 | 🐛 3 | 🌐 TypeScript | 📅 2026-05-19 - Babel integration for both build and server to support f.ex. decorators or class fields in pure JS/JSX files.
+* [genaicode/vite-plugin](https://github.com/gtanczyk/genaicode/tree/master/src/vite-genaicode/) ⭐ 66 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-26 - A plugin that embeds an AI coding assistant into the app UI.
 * [vite-plugin-cloudflare-functions](https://github.com/yjl9903/vite-plugin-cloudflare-functions) ⚠️ Archived - Cloudflare pages function integration.
-* [genaicode/vite-plugin](https://github.com/gtanczyk/genaicode/tree/master/src/vite-genaicode/) ⭐ 65 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-25 - A plugin that embeds an AI coding assistant into the app UI.
 * [vite-plugin-svg-spritemap](https://github.com/g-makarov/vite-plugin-svg-spritemap) ⭐ 58 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-01 - Generates a SVG spritemap from multiple .svg files.
 * [vite-plugin-oxlint](https://github.com/52-entertainment/vite-plugin-oxlint) ⭐ 56 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-23 - Oxlint linter.
 * [vite-plugin-eslint2](https://github.com/ModyQyW/vite-plugin-eslint2) ⭐ 49 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-13 - Runs ESLint synchronously/asynchronously.
@@ -298,28 +298,28 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 * [vite-plugin-page-html](https://github.com/Marinerer/vite-plugins/tree/main/packages/page-html) ⭐ 12 | 🐛 0 | 🌐 TypeScript | 📅 2025-08-06 - Multi-page generic template plugin, support `ejs` template syntax. Similar to `vue-cli` pages configuration.
 * [vite-plugin-vanilla](https://github.com/Marinerer/vite-plugins/tree/main/packages/vanilla) ⭐ 12 | 🐛 0 | 🌐 TypeScript | 📅 2025-08-06 - Vanilla multi-page web development mode.
 * [vite-plugin-auto-mpa-html](https://github.com/iamspark1e/vite-plugin-auto-mpa-html) ⭐ 11 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-17 - A file directory-based automated multi-page build plugin that supports HTML templates using EJS.
-* [vite-plugin-graphql-server](https://github.com/mammadataei/vite-plugin-graphql-server) ⭐ 10 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-23 - Bootstrap a local GraphQL server for testing and documentaion.
+* [vite-plugin-graphql-server](https://github.com/mammadataei/vite-plugin-graphql-server) ⭐ 10 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-25 - Bootstrap a local GraphQL server for testing and documentaion.
 * [Vite-plugin-graphiql](https://github.com/mammadataei/vite-plugin-graphiql) ⭐ 8 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-25 - Integration for GraphiQL IDE.
 * [vite-plugin-px-rem-vw](https://github.com/zscumt123/vite-plugin-px-rem-vw) ⭐ 7 | 🐛 1 | 🌐 TypeScript | 📅 2024-03-06 - Integrate PostCSS plugin pxTorem and pxTovw.
 * [vite-plugin-vconsole-mpa](https://github.com/Miofly/vite-plugin-vconsole-mpa) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-26 - Multi Pages Vconsole supports，simple config.
 * [vite-plugin-dc](https://github.com/dvgis/vite-plugin-dc) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2024-11-09 - Integration with @dvgis/dc-sdk library.
-* [vite-plugin-year](https://github.com/8hobbies/vite-plugin-year) ⭐ 4 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-23 - Inserts the current year to the HTML file during build. Useful for adding a copyright year to the HTML file.
+* [vite-plugin-year](https://github.com/8hobbies/vite-plugin-year) ⭐ 4 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-25 - Inserts the current year to the HTML file during build. Useful for adding a copyright year to the HTML file.
 * [vite-plugin-linter](https://bitbucket.org/unimorphic/vite-plugin-linter) - Extensible linter framework that shows the linting output in the Vite output and the browser console, includes ESLint & TypeScript ootb.
 * [vite-plugin-mpg](https://github.com/just-ads/vite-plugin-multi-page) - Simple configuration of multi page applications.
 * [vite-create-production-server-plugin](https://github.com/jrtderonde/vite-create-production-server-plugin) - Spin up a production HTTP serve after build.
 
 #### Loaders
 
-* [unplugin-icons](https://github.com/antfu/unplugin-icons) ⭐ 4,964 | 🐛 88 | 🌐 TypeScript | 📅 2026-09-11 - Access thousands of icons as components.
+* [unplugin-icons](https://github.com/antfu/unplugin-icons) ⭐ 4,963 | 🐛 88 | 🌐 TypeScript | 📅 2026-09-11 - Access thousands of icons as components.
 * [vite-imagetools](https://github.com/JonasKruckenberg/vite-imagetools) ⭐ 1,152 | 🐛 54 | 🌐 TypeScript | 📅 2026-11-23 - Load and transform images using url query parameters.
-* [vite-plugin-glsl](https://github.com/UstymUkhman/vite-plugin-glsl) ⭐ 428 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-23 - Import shader file chunks.
-* [@responsive-image/vite-plugin](https://github.com/simonihmig/responsive-image) ⭐ 212 | 🐛 28 | 🌐 TypeScript | 📅 2026-11-25 - Transform and generate optimized responsive images (WebP, AVIF) and LQIP placeholders for use with image components.
+* [vite-plugin-glsl](https://github.com/UstymUkhman/vite-plugin-glsl) ⭐ 429 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-23 - Import shader file chunks.
+* [@responsive-image/vite-plugin](https://github.com/simonihmig/responsive-image) ⭐ 212 | 🐛 27 | 🌐 TypeScript | 📅 2026-11-26 - Transform and generate optimized responsive images (WebP, AVIF) and LQIP placeholders for use with image components.
 * [vite-plugin-radar](https://github.com/stafyniaksacha/vite-plugin-radar) ⭐ 178 | 🐛 6 | 🌐 TypeScript | 📅 2026-06-20 - All in one analytics loader (with 7+ providers supported).
 * [vite-plugin-lqip](https://github.com/drwpow/vite-plugin-lqip) ⭐ 90 | 🐛 3 | 🌐 TypeScript | 📅 2025-10-25 - Generate low quality image placeholders (LQIP).
 * [vite-plugin-php](https://github.com/donnikitos/vite-plugin-php) ⭐ 82 | 🐛 3 | 🌐 TypeScript | 📅 2026-07-11 - Load and process PHP-entry files instead of default index.html.
 * [vite-plugin-svgo](https://github.com/r3dDoX/vite-plugin-svgo) ⭐ 38 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-07 - Load SVGs as plain string and transform with SVGO library.
 * [vite-awesome-svg-loader](https://github.com/matafokka/vite-awesome-svg-loader) ⭐ 24 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-16 - Imports SVGs as source code, base64 and data URI. Preserves stroke width, replaces colors with currentColor. Optimizes SVGs with SVGO. Creates SVG sprites.
-* [@cyco130/vite-plugin-mdx](https://github.com/cyco130/vite-plugin-mdx) ⭐ 17 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-25 - Import MDX.
+* [@cyco130/vite-plugin-mdx](https://github.com/cyco130/vite-plugin-mdx) ⭐ 17 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-26 - Import MDX.
 * [vite-plugin-dir2json](https://github.com/buddywang/vite-plugin-dir2json) ⭐ 17 | 🐛 0 | 🌐 TypeScript | 📅 2024-10-11 - Convert the directory structure into json data containing supported file paths.
 * [vite-plugin-ms-clarity](https://github.com/KermanX/vite-plugin-ms-clarity) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2024-03-01 - Inject the Microsoft Clarity script to `index.html`.
 * [vite-plugin-remark-rehype](https://github.com/y-nk/vite-plugin-remark-rehype) - Loads and transform markdown files using the unified ecosystem.
@@ -329,9 +329,9 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 
 * [vite-plugin-dts](https://github.com/qmhc/vite-plugin-dts) ⭐ 1,534 | 🐛 24 | 🌐 TypeScript | 📅 2026-11-04 - Generate declaration files from `.ts` or `.vue` source files for lib.
 * [vite-plugin-singlefile](https://github.com/richardtallent/vite-plugin-singlefile) ⭐ 1,244 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-17 - Inline all JavaScript and CSS resources directly into the final `dist/index.html` file.
-* [vite-plugin-image-optimizer](https://github.com/FatehAK/vite-plugin-image-optimizer) ⭐ 520 | 🐛 25 | 🌐 TypeScript | 📅 2026-11-21 - Optimize (compress) your image assets using Sharp.js and SVGO at build time.
+* [vite-plugin-image-optimizer](https://github.com/FatehAK/vite-plugin-image-optimizer) ⭐ 520 | 🐛 25 | 🌐 TypeScript | 📅 2026-11-25 - Optimize (compress) your image assets using Sharp.js and SVGO at build time.
 * [vite-plugin-css-injected-by-js](https://github.com/marco-prontera/vite-plugin-css-injected-by-js) ⭐ 515 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-27 - Takes the CSS and adds it to the page through the JS.
-* [vite-plugin-static-copy](https://github.com/sapphi-red/vite-plugin-static-copy) ⭐ 433 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-25 - Copy files and folders.
+* [vite-plugin-static-copy](https://github.com/sapphi-red/vite-plugin-static-copy) ⭐ 434 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-26 - Copy files and folders.
 * [vite-plugin-node-polyfills](https://github.com/davidmyersdev/vite-plugin-node-polyfills) ⭐ 424 | 🐛 49 | 🌐 TypeScript | 📅 2026-05-18 - Polyfill Node's Core Modules for browser environments.
 * [vite-plugin-chunk-split](https://github.com/sanyuan0704/vite-plugin-chunk-split) ⭐ 392 | 🐛 28 | 🌐 TypeScript | 📅 2024-07-16 - Automatically code splitting, support unbundle in production.
 * [vite-compression-plugin](https://github.com/XeryYue/vite-compression-plugin) ⭐ 330 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-26 - Use Node.js stream compress file to gzip or more.
@@ -348,7 +348,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 * [vite-plugin-bundle-prefetch](https://github.com/dreambo8563/vite-plugin-bundle-prefetch) ⭐ 21 | 🐛 0 | 🌐 TypeScript | 📅 2024-01-16 - Inject prefetch assets into `index.html`.
 * [vite-plugin-robots](https://github.com/kolirt/vite-plugin-robots) ⭐ 20 | 🐛 1 | 🌐 TypeScript | 📅 2024-05-15 - Generating `robots.txt`.
 * [vite-plugin-dynamic-chunk](https://github.com/MrQinYQ/vite-plugin-dynamic-chunk) ⭐ 17 | 🐛 1 | 🌐 TypeScript | 📅 2025-03-18 - Split dependencies between entry and dynamic entry, and merge small chunks.
-* [vite-plugin-singlefile-compression](https://github.com/bddjr/vite-plugin-singlefile-compression) ⭐ 12 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-22 - Compress all assets and embeds them into `dist/index.html`, making it convenient to share as a single HTML file.
+* [vite-plugin-singlefile-compression](https://github.com/bddjr/vite-plugin-singlefile-compression) ⭐ 13 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-22 - Compress all assets and embeds them into `dist/index.html`, making it convenient to share as a single HTML file.
 * [vite-plugin-static-filehash](https://github.com/MrQinYQ/vite-plugin-static-filehash) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2024-12-24 - It can help the program improve the cache hit rate.
 * [vite-plugin-lib-types](https://github.com/keuby/vite-plugin-lib-types) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2024-12-18 - Generate DTS file while building library.
 * [unplugin-zip-pack](https://github.com/iamspark1e/unplugin-zip-pack) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-26 - Zip your dist with filter function support.
@@ -361,7 +361,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 
 * [vite-plugin-turbo-console](https://github.com/yuyinws/vite-plugin-turbo-console) ⭐ 711 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-12 - Enhance the readability of `console.log()`.
 * [vite-plugin-html](https://github.com/anncwb/vite-plugin-html) ⭐ 688 | 🐛 93 | 🌐 TypeScript | 📅 2024-08-07 - Plugin to minimize and use ejs template syntax in `index.html`.
-* [@import-meta-env/unplugin](https://github.com/runtime-env/import-meta-env) ⭐ 276 | 🐛 92 | 🌐 TypeScript | 📅 2026-11-08 - Inject environment variables into the `import.meta.env` object after building the application instead of statically replacing it during production.
+* [@import-meta-env/unplugin](https://github.com/runtime-env/import-meta-env) ⭐ 276 | 🐛 91 | 🌐 TypeScript | 📅 2026-11-08 - Inject environment variables into the `import.meta.env` object after building the application instead of statically replacing it during production.
 * [vite-plugin-handlebars](https://github.com/alexlafroscia/vite-plugin-handlebars) ⭐ 213 | 🐛 19 | 🌐 TypeScript | 📅 2026-06-29 - Process HTML files with Handlebars.
 * [vite-plugin-icons-spritesheet](https://github.com/forge42dev/vite-plugin-icons-spritesheet) ⭐ 175 | 🐛 5 | 🌐 TypeScript | 📅 2026-06-01 - Generate a spritesheet and TypeScript types from SVG icons by listening to the icons folder changes.
 * [@laynezh/vite-plugin-lib-assets](https://github.com/laynezh/vite-plugin-lib-assets) ⭐ 137 | 🐛 7 | 🌐 TypeScript | 📅 2025-12-03 - Extracts resource files referenced in `library mode` instead of embedded them as base64.
@@ -379,7 +379,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 * [unplugin-inject-preload](https://github.com/Applelo/unplugin-inject-preload) ⭐ 39 | 🐛 2 | 🌐 TypeScript | 📅 2024-12-15 - Inject `<link rel="preload">` to your `index.html` based on your build assets.
 * [vite-plugin-shared-modules](https://github.com/zheeeng/vite-plugin-shared-modules) ⭐ 34 | 🐛 3 | 🌐 TypeScript | 📅 2025-11-17 - Share node\_modules in monorepos.
 * [vite-plugin-css-export](https://github.com/shixuanhong/vite-plugin-css-export) ⭐ 29 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-24 - Export variables from CSS to JavaScript, and support nested rules.
-* [vite-plugin-ts-nameof](https://github.com/Shinigami92/vite-plugin-ts-nameof) ⭐ 23 | 🐛 13 | 🌐 JavaScript | 📅 2026-11-24 - Ability to resolve [nameof](https://github.com/dsherret/ts-nameof) ⚠️ Archived in TypeScript.
+* [vite-plugin-ts-nameof](https://github.com/Shinigami92/vite-plugin-ts-nameof) ⭐ 23 | 🐛 13 | 🌐 JavaScript | 📅 2026-11-26 - Ability to resolve [nameof](https://github.com/dsherret/ts-nameof) ⚠️ Archived in TypeScript.
 * [@vituum/vite-plugin-twig](https://github.com/vituum/vite-plugin-twig) ⭐ 22 | 🐛 1 | 🌐 JavaScript | 📅 2026-03-18 - Twig template engine support, transforms `.twig` templates to `.html`.
 * [unplugin-generate-component-name](https://github.com/CCherry07/unplugin-generate-component-name) ⭐ 22 | 🐛 0 | 🌐 TypeScript | 📅 2024-07-04 - Automatically generate component's name.
 * [vite-plugin-native](https://github.com/vite-plugin/vite-plugin-native) ⭐ 22 | 🐛 4 | 🌐 TypeScript | 📅 2024-09-15 - Supports Node/Electron C/C++ native addons.
@@ -392,7 +392,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 * [vite-plugin-generate-html](https://github.com/gedouu/vite-plugin-generate-html) ⭐ 10 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-18 - Define separate output files for JavaScript and CSS bundles.
 * [@vituum/vite-plugin-handlebars](https://github.com/vituum/vite-plugin-handlebars) ⭐ 9 | 🐛 2 | 🌐 JavaScript | 📅 2026-03-18 - Handlebars template engine support, transforms `.hbs` templates to `.html`.
 * [@tomjs/vite-plugin-iconify](https://github.com/tomjs/vite-plugin-iconify) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-29 - Inject the global variable `IconifyProviders` into `index.html` for `iconify`, and support local area network and custom url.
-* [vite-plugin-material-symbols](https://github.com/RobinTail/vite-plugin-material-symbols) ⭐ 9 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-25 - Selective loading of Material Symbols font icons based on source code analysis.
+* [vite-plugin-material-symbols](https://github.com/RobinTail/vite-plugin-material-symbols) ⭐ 9 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-26 - Selective loading of Material Symbols font icons based on source code analysis.
 * [@yoichiro/vite-plugin-handlebars](https://github.com/yoichiro/vite-plugin-handlebars) ⭐ 8 | 🐛 5 | 🌐 TypeScript | 📅 2024-09-30 - Import of Handlebars templates `.hbs` as ES Modules.
 * [@vituum/vite-plugin-juice](https://github.com/vituum/vite-plugin-juice) ⭐ 7 | 🐛 1 | 🌐 JavaScript | 📅 2026-03-18 - Juice support, transforms `.css` to inline styles in `.html`.
 * [vite-plugin-replace-lodash](https://github.com/mingtianyihou33/vite-plugin-replace-lodash) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2025-02-13 - Replacing the import of `lodash` with `lodash-es` is more beneficial to tree-shaking.
@@ -404,14 +404,14 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 
 #### Helpers
 
-* [unplugin-auto-import](https://github.com/antfu/unplugin-auto-import) ⭐ 3,794 | 🐛 72 | 🌐 TypeScript | 📅 2026-08-03 - On-demand API auto-importing.
+* [unplugin-auto-import](https://github.com/antfu/unplugin-auto-import) ⭐ 3,793 | 🐛 72 | 🌐 TypeScript | 📅 2026-08-03 - On-demand API auto-importing.
 * [vite-plugin-inspect](https://github.com/antfu/vite-plugin-inspect) ⭐ 1,698 | 🐛 14 | 🌐 TypeScript | 📅 2026-11-24 - Inspect the intermediate state of Vite plugins.
-* [vite-tsconfig-paths](https://github.com/aleclarson/vite-tsconfig-paths) ⭐ 1,629 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-07 - Support for TypeScript's path mapping.
+* [vite-tsconfig-paths](https://github.com/aleclarson/vite-tsconfig-paths) ⭐ 1,628 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-07 - Support for TypeScript's path mapping.
 * [vite-plugin-mkcert](https://github.com/liuweiGL/vite-plugin-mkcert) ⭐ 770 | 🐛 7 | 🌐 TypeScript | 📅 2026-07-01 - Provide certificates https dev server.
-* [vite-plugin-web-update-notification](https://github.com/GreatAuk/plugin-web-update-notification) ⭐ 662 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-23 - Detect webpage updates and notify user to reload. support Vite and umijs.
+* [vite-plugin-web-update-notification](https://github.com/GreatAuk/plugin-web-update-notification) ⭐ 663 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-23 - Detect webpage updates and notify user to reload. support Vite and umijs.
 * [vite-bundle-analyzer](https://github.com/nonzzz/vite-bundle-analyzer) ⭐ 469 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-07 - Utility that represents bundles as an interactive treemap.
-* [vite-plugin-watch-and-run](https://github.com/jycouet/kitql/tree/main/packages/vite-plugin-watch-and-run) ⭐ 452 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-25 - Watch some files (glob) and trigger a command. To enable any tool to have a watch mode.
-* [vite-plugin-mock-dev-server](https://github.com/pengzhanbo/vite-plugin-mock-dev-server) ⭐ 263 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-24 - Mock server for development, support CJS/ESM/JSON, auto-importing file and HMR.
+* [vite-plugin-watch-and-run](https://github.com/jycouet/kitql/tree/main/packages/vite-plugin-watch-and-run) ⭐ 452 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-25 - Watch some files (glob) and trigger a command. To enable any tool to have a watch mode.
+* [vite-plugin-mock-dev-server](https://github.com/pengzhanbo/vite-plugin-mock-dev-server) ⭐ 263 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-26 - Mock server for development, support CJS/ESM/JSON, auto-importing file and HMR.
 * [vite-plugin-validate-env](https://github.com/Julien-R44/vite-plugin-validate-env) ⭐ 232 | 🐛 6 | 🌐 TypeScript | 📅 2026-03-16 - Validate your environment variables at build time. Never forget an environment variable again.
 * [vite-plugin-qrcode](https://github.com/svitejs/vite-plugin-qrcode) ⭐ 217 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-28 - Show QR code on server start.
 * [vite-plugin-restart](https://github.com/antfu/vite-plugin-restart) ⭐ 214 | 🐛 11 | 🌐 TypeScript | 📅 2025-10-31 - Restart the Vite server on file changes.
@@ -421,7 +421,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 * [vitawind](https://github.com/huibizhang/vitawind) ⭐ 166 | 🐛 5 | 🌐 HTML | 📅 2024-06-20 - Install and Setting Tailwind CSS automatically.
 * [vite-plugin-entry-shaking](https://github.com/Dschungelabenteuer/vite-plugin-entry-shaking) ⭐ 158 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-08 - Mimic tree-shaking behaviour when importing code from an entry file in development mode.
 * [vite-plugin-vitepress-auto-sidebar](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar) ⭐ 129 | 🐛 4 | 🌐 TypeScript | 📅 2025-11-09 - Automatically generates sidebar data by scanning directories, based on vitepress.
-* [unplugin-info](https://github.com/yjl9903/unplugin-info) ⭐ 111 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-24 - Export build information as a virutal module.
+* [unplugin-info](https://github.com/yjl9903/unplugin-info) ⭐ 111 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-25 - Export build information as a virutal module.
 * [vite-plugin-external](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-external) ⭐ 102 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-19 - Provides a way of excluding dependencies from the runtime code and output bundles.
 * [vite-plugin-mock-data](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-mock-data) ⭐ 102 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-19 - Provides a simple way to mock data.
 * [vite-plugin-reverse-proxy](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-reverse-proxy) ⭐ 102 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-19 - Sometimes we have to redirect scripts on production environment to debug and solve problems, the plugin will transform the script to be served with the `text/javascript` MIME type to `module` MIME type.
@@ -429,7 +429,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 * [vite-plugin-vconsole](https://github.com/vadxq/vite-plugin-vconsole) ⭐ 87 | 🐛 6 | 🌐 TypeScript | 📅 2025-01-02 - Help developers use vconsole to facilitate mobile development and debugging.
 * [vite-plugin-conditional-compile](https://github.com/KeJunMao/vite-plugin-conditional-compile) ⭐ 84 | 🐛 1 | 🌐 TypeScript | 📅 2025-11-05 - Conditional compilation syntax based on environment variables.
 * [unplugin-detect-duplicated-deps](https://github.com/tjx666/unplugin-detect-duplicated-deps) ⭐ 82 | 🐛 0 | 🌐 TypeScript | 📅 2024-03-30 - Detect duplicate packaged dependencies.
-* [vite-plugin-dynamic-base](https://github.com/chenxch/vite-plugin-dynamic-base) ⭐ 79 | 🐛 7 | 🌐 TypeScript | 📅 2026-05-18 - Resolve all resource files dynamic publicPath.
+* [vite-plugin-dynamic-base](https://github.com/chenxch/vite-plugin-dynamic-base) ⭐ 80 | 🐛 7 | 🌐 TypeScript | 📅 2026-05-18 - Resolve all resource files dynamic publicPath.
 * [vite-preload](https://github.com/wille/vite-preload) ⭐ 69 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-25 - Preloads lazy loaded modules and stylesheets that were rendered by the server using 103 Early Hints, Link headers or link tags.
 * [vite-plugin-mock-server](https://github.com/enjoycoding/vite-plugin-mock-server) ⚠️ Archived - Mock server plugin, support using TS and JS to write Mock API and HMR.
 * [vite-plugin-tips](https://github.com/yingpengsha/vite-plugin-tips) ⭐ 61 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-04 - Provide better development server status tips on the page.
@@ -443,7 +443,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 * [vite-plugin-dev-manifest](https://github.com/owlsdepartment/vite-plugin-dev-manifest) ⭐ 28 | 🐛 1 | 🌐 TypeScript | 📅 2026-03-19 - Generates `manifest.dev.json` during dev server, for backend integration with any language/framework.
 * [vite-plugin-vitepress-auto-nav](https://github.com/Xaviw/vite-plugin-vitepress-auto-nav) ⭐ 28 | 🐛 2 | 🌐 TypeScript | 📅 2026-03-09 - Automatically generates `sidebar` and `nav` configurations by scanning directories, based on VitePress.
 * [vite-plugin-i18n-detector](https://github.com/hemengke1997/vite-plugin-i18n-detector) ⭐ 25 | 🐛 0 | 🌐 TypeScript | 📅 2025-06-19 - Lazyload i18n locale resources.
-* [vite-plugin-browserslist-useragent](https://github.com/kingyue737/vite-plugin-browserslist-useragent) ⭐ 17 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-25 - Compile browserslist query to a RegExp to test browser useragent.
+* [vite-plugin-browserslist-useragent](https://github.com/kingyue737/vite-plugin-browserslist-useragent) ⭐ 17 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-26 - Compile browserslist query to a RegExp to test browser useragent.
 * [vite-plugin-auto-alias](https://github.com/jwyGithub/vite-plugin-auto-alias) ⭐ 12 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-10 - Automatically generate alias based on path.
 * [vite-plugin-image-placeholder](https://github.com/pengzhanbo/vite-plugin-image-placeholder) ⭐ 12 | 🐛 0 | 🌐 TypeScript | 📅 2024-04-10 - Generate placeholder images by path matches.
 * [vite-plugin-global-const](https://github.com/censujiang/vite-plugin-global-const) ⭐ 11 | 🐛 0 | 🌐 TypeScript | 📅 2024-07-18 - Define constants for reuse of your code.
@@ -462,10 +462,10 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 
 #### Testing
 
-* [`vitest`](https://github.com/vitest-dev/vitest) ⭐ 17,454 | 🐛 403 | 🌐 TypeScript | 📅 2026-11-25 - A Vite-native test framework.
-* [vitest-mock-extended](https://github.com/eratio08/vitest-mock-extended) ⭐ 271 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-22 - Type safe mocking extensions for Vitest.
-* [cypress-vite](https://github.com/mammadataei/cypress-vite) ⭐ 106 | 🐛 18 | 🌐 TypeScript | 📅 2026-11-25 - Run Cypress specs using Vite.
-* [vite-plugin-doctest](https://github.com/ssssota/doc-vitest) ⭐ 75 | 🐛 21 | 🌐 TypeScript | 📅 2026-11-25 - Documentation testing for Vitest.
+* [`vitest`](https://github.com/vitest-dev/vitest) ⭐ 17,473 | 🐛 407 | 🌐 TypeScript | 📅 2026-11-26 - A Vite-native test framework.
+* [vitest-mock-extended](https://github.com/eratio08/vitest-mock-extended) ⭐ 271 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-26 - Type safe mocking extensions for Vitest.
+* [cypress-vite](https://github.com/mammadataei/cypress-vite) ⭐ 106 | 🐛 18 | 🌐 TypeScript | 📅 2026-11-26 - Run Cypress specs using Vite.
+* [vite-plugin-doctest](https://github.com/ssssota/doc-vitest) ⭐ 75 | 🐛 21 | 🌐 TypeScript | 📅 2026-11-26 - Documentation testing for Vitest.
 * [`@poyro/vitest`](https://github.com/poyro/poyro) ⚠️ Archived - Test LLM integrations using Vitest.
 
 #### Security
@@ -495,8 +495,8 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 #### Integrations
 
-* ![v3] [@vitejs/plugin-vue](https://github.com/vitejs/vite-plugin-vue) ⭐ 690 | 🐛 111 | 🌐 TypeScript | 📅 2026-11-25 - Official Vue 3 support.
-* ![v3] [@vitejs/plugin-vue-jsx](https://github.com/vitejs/vite-plugin-vue/tree/main/packages/plugin-vue-jsx) ⭐ 690 | 🐛 111 | 🌐 TypeScript | 📅 2026-11-25 - Official Vue 3 JSX support.
+* ![v3] [@vitejs/plugin-vue](https://github.com/vitejs/vite-plugin-vue) ⭐ 691 | 🐛 112 | 🌐 TypeScript | 📅 2026-11-26 - Official Vue 3 support.
+* ![v3] [@vitejs/plugin-vue-jsx](https://github.com/vitejs/vite-plugin-vue/tree/main/packages/plugin-vue-jsx) ⭐ 691 | 🐛 112 | 🌐 TypeScript | 📅 2026-11-26 - Official Vue 3 JSX support.
 * ![v2] [vite-plugin-vue2](https://github.com/underfin/vite-plugin-vue2) ⚠️ Archived - Vue 2 integration.
 * ![v2] [unplugin-vue2-script-setup](https://github.com/antfu/unplugin-vue2-script-setup) ⚠️ Archived - Enabling `<script setup>` syntax for Vue 2.
 * ![v2] [@vitejs/plugin-vue2](https://github.com/vitejs/vite-plugin-vue2) ⚠️ Archived - Official Vue 2 support.
@@ -524,7 +524,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 #### Ecosystem
 
-* ![v3] [unplugin-vue-i18n](https://github.com/intlify/bundle-tools/tree/main/packages/unplugin-vue-i18n) ⭐ 269 | 🐛 25 | 🌐 TypeScript | 📅 2026-11-25 - Integration for Vue I18n.
+* ![v3] [unplugin-vue-i18n](https://github.com/intlify/bundle-tools/tree/main/packages/unplugin-vue-i18n) ⭐ 269 | 🐛 25 | 🌐 TypeScript | 📅 2026-11-26 - Integration for Vue I18n.
 * ![v3] [vite-plugin-i18n-resources](https://github.com/fvena/vite-plugin-i18n-resources) ⚠️ Archived - Load i18n translation message files.
 * ![v3] [vite-plugin-i18n-autoimport](https://github.com/PengBoUESTC/vite-plugin-i18n-autoimport) ⭐ 3 | 🐛 0 | 🌐 HTML | 📅 2024-09-12 - Auto import i18n config file for components.
 
@@ -536,7 +536,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 #### Helpers
 
-* ![v23] [unplugin-vue-components](https://github.com/antfu/unplugin-vue-components) ⭐ 4,290 | 🐛 145 | 🌐 TypeScript | 📅 2026-05-20 - On-demand components auto-importing.
+* ![v23] [unplugin-vue-components](https://github.com/antfu/unplugin-vue-components) ⭐ 4,291 | 🐛 146 | 🌐 TypeScript | 📅 2026-05-20 - On-demand components auto-importing.
 * ![v3] [vite-plugin-vue-devtools](https://github.com/webfansplz/vite-plugin-vue-devtools) ⚠️ Archived - Designed to enhance the Vue developer experience.
 * ![v23] [vite-plugin-vue-inspector](https://github.com/webfansplz/vite-plugin-vue-inspector) ⭐ 809 | 🐛 46 | 🌐 TypeScript | 📅 2026-06-08 - Jump to local IDE source code while click the element of browser.
 * ![v3] [vite-plugin-vue-gql](https://github.com/wheatjs/vite-plugin-vue-gql) ⭐ 213 | 🐛 3 | 🌐 TypeScript | 📅 2021-11-02 - GraphQL Tags for your Vue SFC.
@@ -553,7 +553,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 #### Official
 
-* [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react) ⭐ 1,187 | 🐛 127 | 🌐 TypeScript | 📅 2026-11-25 - Official React support that uses Babel.
+* [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react) ⭐ 1,187 | 🐛 128 | 🌐 TypeScript | 📅 2026-11-26 - Official React support that uses Babel.
 * [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) ⚠️ Archived - Official React support that uses SWC.
 
 #### Presets
@@ -603,11 +603,11 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 #### Integrations
 
-* [vite-plugin-svelte](https://github.com/sveltejs/vite-plugin-svelte) ⭐ 1,043 | 🐛 37 | 🌐 JavaScript | 📅 2026-11-23 - Adds Svelte support. Official plugin of Svelte team.
+* [vite-plugin-svelte](https://github.com/sveltejs/vite-plugin-svelte) ⭐ 1,044 | 🐛 39 | 🌐 JavaScript | 📅 2026-11-26 - Adds Svelte support. Official plugin of Svelte team.
 
 #### Helpers
 
-* [vite-plugin-kit-routes](https://github.com/jycouet/kitql/tree/main/packages/vite-plugin-kit-routes) ⭐ 452 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-25 - Generates a file with all the routes, params, actions of your SvelteKit App.
+* [vite-plugin-kit-routes](https://github.com/jycouet/kitql/tree/main/packages/vite-plugin-kit-routes) ⭐ 452 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-25 - Generates a file with all the routes, params, actions of your SvelteKit App.
 
 <hr>
 
@@ -615,7 +615,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 #### Integrations
 
-* [vite-plugin-solid](https://github.com/amoutonbrady/vite-plugin-solid) ⭐ 528 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-20 - Provides JSX transformation for Solid.
+* [vite-plugin-solid](https://github.com/amoutonbrady/vite-plugin-solid) ⭐ 528 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-26 - Provides JSX transformation for Solid.
 * [vite-plugin-solid-svg](https://github.com/jfgodoy/vite-plugin-solid-svg) ⭐ 93 | 🐛 6 | 🌐 TypeScript | 📅 2024-03-26 - Import SVG files as Solid.js Components.
 
 #### Routing
@@ -628,7 +628,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 #### Integrations
 
-* [vite-plugin-elm](https://github.com/hmsk/vite-plugin-elm) ⭐ 221 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-25 - A plugin that enables you to compile an Elm module.
+* [vite-plugin-elm](https://github.com/hmsk/vite-plugin-elm) ⭐ 221 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-26 - A plugin that enables you to compile an Elm module.
 
 <hr>
 
@@ -666,36 +666,36 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 #### Included in Vite
 
-* [`@rollup/plugin-alias`](https://github.com/rollup/plugins/blob/master/packages/alias) ⭐ 3,758 | 🐛 58 | 🌐 JavaScript | 📅 2026-11-07 - Define and resolve aliases for bundle dependencies.
-* [`@rollup/plugin-commonjs`](https://github.com/rollup/plugins/blob/master/packages/commonjs) ⭐ 3,758 | 🐛 58 | 🌐 JavaScript | 📅 2026-11-07 - Convert CommonJS modules to ES6.
-* [`@rollup/plugin-dynamic-import-vars`](https://github.com/rollup/plugins/blob/master/packages/dynamic-import-vars) ⭐ 3,758 | 🐛 58 | 🌐 JavaScript | 📅 2026-11-07 - Resolving dynamic imports that contain variables.
-* [`@rollup/plugin-json`](https://github.com/rollup/plugins/blob/master/packages/json) ⭐ 3,758 | 🐛 58 | 🌐 JavaScript | 📅 2026-11-07 - Convert `.json` files to ES6 modules.
+* [`@rollup/plugin-alias`](https://github.com/rollup/plugins/blob/master/packages/alias) ⭐ 3,758 | 🐛 57 | 🌐 JavaScript | 📅 2026-11-07 - Define and resolve aliases for bundle dependencies.
+* [`@rollup/plugin-commonjs`](https://github.com/rollup/plugins/blob/master/packages/commonjs) ⭐ 3,758 | 🐛 57 | 🌐 JavaScript | 📅 2026-11-07 - Convert CommonJS modules to ES6.
+* [`@rollup/plugin-dynamic-import-vars`](https://github.com/rollup/plugins/blob/master/packages/dynamic-import-vars) ⭐ 3,758 | 🐛 57 | 🌐 JavaScript | 📅 2026-11-07 - Resolving dynamic imports that contain variables.
+* [`@rollup/plugin-json`](https://github.com/rollup/plugins/blob/master/packages/json) ⭐ 3,758 | 🐛 57 | 🌐 JavaScript | 📅 2026-11-07 - Convert `.json` files to ES6 modules.
 
 #### Covered by default in Vite
 
-* [`@rollup/plugin-babel`](https://github.com/rollup/plugins/tree/master/packages/babel) ⭐ 3,758 | 🐛 58 | 🌐 JavaScript | 📅 2026-11-07 - Compile your files with Babel.
-* [`@rollup/plugin-buble`](https://github.com/rollup/plugins/tree/master/packages/buble) ⭐ 3,758 | 🐛 58 | 🌐 JavaScript | 📅 2026-11-07 - Compile ES2015 with buble.
-* [`@rollup/plugin-data-uri`](https://github.com/rollup/plugins/tree/master/packages/data-uri) ⭐ 3,758 | 🐛 58 | 🌐 JavaScript | 📅 2026-11-07 - Import modules from Data URIs.
-* [`@rollup/plugin-html`](https://github.com/rollup/plugins/tree/master/packages/html) ⭐ 3,758 | 🐛 58 | 🌐 JavaScript | 📅 2026-11-07 - Create HTML files to serve Rollup bundles.
-* [`@rollup/plugin-node-resolve`](https://github.com/rollup/plugins/tree/master/packages/node-resolve) ⭐ 3,758 | 🐛 58 | 🌐 JavaScript | 📅 2026-11-07 - Locate and bundle third-party dependencies in node\_modules.
-* [`@rollup/plugin-sucrase`](https://github.com/rollup/plugins/tree/master/packages/sucrase) ⭐ 3,758 | 🐛 58 | 🌐 JavaScript | 📅 2026-11-07 - Compile TypeScript, Flow, JSX, etc with Sucrase.
-* [`@rollup/plugin-typescript`](https://github.com/rollup/plugins/tree/master/packages/typescript) ⭐ 3,758 | 🐛 58 | 🌐 JavaScript | 📅 2026-11-07 - Integration between Rollup and TypeScript.
-* [`@rollup/plugin-wasm`](https://github.com/rollup/plugins/tree/master/packages/wasm) ⭐ 3,758 | 🐛 58 | 🌐 JavaScript | 📅 2026-11-07 - Import WebAssembly code with Rollup.
-* [`@rollup/plugin-url`](https://github.com/rollup/plugins/tree/master/packages/url) ⭐ 3,758 | 🐛 58 | 🌐 JavaScript | 📅 2026-11-07 - Import files as data-URIs or ES Modules.
+* [`@rollup/plugin-babel`](https://github.com/rollup/plugins/tree/master/packages/babel) ⭐ 3,758 | 🐛 57 | 🌐 JavaScript | 📅 2026-11-07 - Compile your files with Babel.
+* [`@rollup/plugin-buble`](https://github.com/rollup/plugins/tree/master/packages/buble) ⭐ 3,758 | 🐛 57 | 🌐 JavaScript | 📅 2026-11-07 - Compile ES2015 with buble.
+* [`@rollup/plugin-data-uri`](https://github.com/rollup/plugins/tree/master/packages/data-uri) ⭐ 3,758 | 🐛 57 | 🌐 JavaScript | 📅 2026-11-07 - Import modules from Data URIs.
+* [`@rollup/plugin-html`](https://github.com/rollup/plugins/tree/master/packages/html) ⭐ 3,758 | 🐛 57 | 🌐 JavaScript | 📅 2026-11-07 - Create HTML files to serve Rollup bundles.
+* [`@rollup/plugin-node-resolve`](https://github.com/rollup/plugins/tree/master/packages/node-resolve) ⭐ 3,758 | 🐛 57 | 🌐 JavaScript | 📅 2026-11-07 - Locate and bundle third-party dependencies in node\_modules.
+* [`@rollup/plugin-sucrase`](https://github.com/rollup/plugins/tree/master/packages/sucrase) ⭐ 3,758 | 🐛 57 | 🌐 JavaScript | 📅 2026-11-07 - Compile TypeScript, Flow, JSX, etc with Sucrase.
+* [`@rollup/plugin-typescript`](https://github.com/rollup/plugins/tree/master/packages/typescript) ⭐ 3,758 | 🐛 57 | 🌐 JavaScript | 📅 2026-11-07 - Integration between Rollup and TypeScript.
+* [`@rollup/plugin-wasm`](https://github.com/rollup/plugins/tree/master/packages/wasm) ⭐ 3,758 | 🐛 57 | 🌐 JavaScript | 📅 2026-11-07 - Import WebAssembly code with Rollup.
+* [`@rollup/plugin-url`](https://github.com/rollup/plugins/tree/master/packages/url) ⭐ 3,758 | 🐛 57 | 🌐 JavaScript | 📅 2026-11-07 - Import files as data-URIs or ES Modules.
 
 #### Compatible with Vite
 
-* [`@rollup/plugin-beep`](https://github.com/rollup/plugins/tree/master/packages/beep) ⭐ 3,758 | 🐛 58 | 🌐 JavaScript | 📅 2026-11-07 - System beeps on errors and warnings.
-* [`@rollup/plugin-dsv`](https://github.com/rollup/plugins/blob/master/packages/dsv) ⭐ 3,758 | 🐛 58 | 🌐 JavaScript | 📅 2026-11-07 - Convert `.csv` and `.tsv` files into JavaScript modules with d3-dsv.
-* [`@rollup/plugin-eslint`](https://github.com/rollup/plugins/blob/master/packages/eslint) ⭐ 3,758 | 🐛 58 | 🌐 JavaScript | 📅 2026-11-07 - Verify entry point and all imported files with ESLint.
-* [`@rollup/plugin-graphql`](https://github.com/rollup/plugins/blob/master/packages/graphql) ⭐ 3,758 | 🐛 58 | 🌐 JavaScript | 📅 2026-11-07 - Convert .gql/.graphql files to ES6 modules.
-* [`@rollup/plugin-image`](https://github.com/rollup/plugins/blob/master/packages/image) ⭐ 3,758 | 🐛 58 | 🌐 JavaScript | 📅 2026-11-07 - Import JPG, PNG, GIF, SVG, and WebP files (needs `enforce: 'pre'`).
-* [`@rollup/plugin-inject`](https://github.com/rollup/plugins/blob/master/packages/inject) ⭐ 3,758 | 🐛 58 | 🌐 JavaScript | 📅 2026-11-07 - Scan modules for global variables and injects import statements where necessary.
-* [`@rollup/plugin-legacy`](https://github.com/rollup/plugins/tree/master/packages/legacy) ⭐ 3,758 | 🐛 58 | 🌐 JavaScript | 📅 2026-11-07 - Add export declarations to legacy non-module scripts.
-* [`@rollup/plugin-replace`](https://github.com/rollup/plugins/tree/master/packages/replace) ⭐ 3,758 | 🐛 58 | 🌐 JavaScript | 📅 2026-11-07 - Replace strings in files while bundling.
-* [`@rollup/plugin-strip`](https://github.com/rollup/plugins/tree/master/packages/strip) ⭐ 3,758 | 🐛 58 | 🌐 JavaScript | 📅 2026-11-07 - Remove debugger statements and functions from your code.
-* [`@rollup/plugin-virtual`](https://github.com/rollup/plugins/blob/master/packages/virtual) ⭐ 3,758 | 🐛 58 | 🌐 JavaScript | 📅 2026-11-07 - A Rollup plugin that loads virtual modules from memory.
-* [`@rollup/plugin-yaml`](https://github.com/rollup/plugins/blob/master/packages/yaml) ⭐ 3,758 | 🐛 58 | 🌐 JavaScript | 📅 2026-11-07 - Convert YAML files to ES6 modules.
+* [`@rollup/plugin-beep`](https://github.com/rollup/plugins/tree/master/packages/beep) ⭐ 3,758 | 🐛 57 | 🌐 JavaScript | 📅 2026-11-07 - System beeps on errors and warnings.
+* [`@rollup/plugin-dsv`](https://github.com/rollup/plugins/blob/master/packages/dsv) ⭐ 3,758 | 🐛 57 | 🌐 JavaScript | 📅 2026-11-07 - Convert `.csv` and `.tsv` files into JavaScript modules with d3-dsv.
+* [`@rollup/plugin-eslint`](https://github.com/rollup/plugins/blob/master/packages/eslint) ⭐ 3,758 | 🐛 57 | 🌐 JavaScript | 📅 2026-11-07 - Verify entry point and all imported files with ESLint.
+* [`@rollup/plugin-graphql`](https://github.com/rollup/plugins/blob/master/packages/graphql) ⭐ 3,758 | 🐛 57 | 🌐 JavaScript | 📅 2026-11-07 - Convert .gql/.graphql files to ES6 modules.
+* [`@rollup/plugin-image`](https://github.com/rollup/plugins/blob/master/packages/image) ⭐ 3,758 | 🐛 57 | 🌐 JavaScript | 📅 2026-11-07 - Import JPG, PNG, GIF, SVG, and WebP files (needs `enforce: 'pre'`).
+* [`@rollup/plugin-inject`](https://github.com/rollup/plugins/blob/master/packages/inject) ⭐ 3,758 | 🐛 57 | 🌐 JavaScript | 📅 2026-11-07 - Scan modules for global variables and injects import statements where necessary.
+* [`@rollup/plugin-legacy`](https://github.com/rollup/plugins/tree/master/packages/legacy) ⭐ 3,758 | 🐛 57 | 🌐 JavaScript | 📅 2026-11-07 - Add export declarations to legacy non-module scripts.
+* [`@rollup/plugin-replace`](https://github.com/rollup/plugins/tree/master/packages/replace) ⭐ 3,758 | 🐛 57 | 🌐 JavaScript | 📅 2026-11-07 - Replace strings in files while bundling.
+* [`@rollup/plugin-strip`](https://github.com/rollup/plugins/tree/master/packages/strip) ⭐ 3,758 | 🐛 57 | 🌐 JavaScript | 📅 2026-11-07 - Remove debugger statements and functions from your code.
+* [`@rollup/plugin-virtual`](https://github.com/rollup/plugins/blob/master/packages/virtual) ⭐ 3,758 | 🐛 57 | 🌐 JavaScript | 📅 2026-11-07 - A Rollup plugin that loads virtual modules from memory.
+* [`@rollup/plugin-yaml`](https://github.com/rollup/plugins/blob/master/packages/yaml) ⭐ 3,758 | 🐛 57 | 🌐 JavaScript | 📅 2026-11-07 - Convert YAML files to ES6 modules.
 * [rollup-plugin-graphql-codegen](https://github.com/rxliuli/liuli-tools/tree/master/libs/rollup-plugin-graphql-codegen) ⭐ 83 | 🐛 2 | 🌐 TypeScript | 📅 2025-07-08 - Generating type definitions for GraphQL tag template strings in worker\_threads.
 * [rollup-plugin-i18next-dts-gen](https://github.com/rxliuli/liuli-tools/tree/master/libs/rollup-plugin-i18next-dts-gen) ⭐ 83 | 🐛 2 | 🌐 TypeScript | 📅 2025-07-08 - Generating type definitions from i18n JSON files are used for code hinting and validation.
 
@@ -717,12 +717,12 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 ### Libraries
 
-* [Vike](https://github.com/vikejs/vike) ⭐ 5,843 | 🐛 91 | 🌐 TypeScript | 📅 2026-11-25 - Like Nuxt/Next.js but as a do-one-thing-do-it-well plugin. ![react] ![vue3] ![vue2] ![svelte]
+* [Vike](https://github.com/vikejs/vike) ⭐ 5,843 | 🐛 95 | 🌐 TypeScript | 📅 2026-11-26 - Like Nuxt/Next.js but as a do-one-thing-do-it-well plugin. ![react] ![vue3] ![vue2] ![svelte]
 * [Vinxi](https://github.com/nksaraf/vinxi) ⭐ 2,797 | 🐛 124 | 🌐 JavaScript | 📅 2026-03-21 - The Full Stack JavaScript SDK. Allows adding SSR to a Vite app.
 * [ssr](https://github.com/zhangyuang/ssr) ⭐ 2,685 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-17 - A Server Side Rendering framework combined with Webpack/Vite. ![react] ![vue3] ![vue2]
-* [vavite](https://github.com/cyco130/vavite) ⭐ 566 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-23 - A tool for developing and building server-side applications with live reloading capabilities.
+* [vavite](https://github.com/cyco130/vavite) ⭐ 566 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-26 - A tool for developing and building server-side applications with live reloading capabilities.
 * [SSRx](https://github.com/marbemac/ssrx) ⭐ 156 | 🐛 1 | 🌐 TypeScript | 📅 2025-07-14 - A thin layer on top of Vite to build modern SSR apps with a delightful DX.
-* [vite-ssr-boost](https://github.com/Lomray-Software/vite-ssr-boost) ⭐ 119 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-25 - Server side rendering library for create awesome app based on `react-router`. ![react]
+* [vite-ssr-boost](https://github.com/Lomray-Software/vite-ssr-boost) ⭐ 119 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-25 - Server side rendering library for create awesome app based on `react-router`. ![react]
 * [domco](https://github.com/rossrobino/domco) ⭐ 82 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-19 - Minimal full-stack JavaScript. Turns a Vite app into a full-stack application with minimal dependencies.
 * [vue-ssr](https://github.com/bistroo/vue-ssr) ⚠️ Archived - Minimalistic wrapper to develop and run SSR powered Vue apps. ![vue3]
 
@@ -833,11 +833,11 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 ### Open Source
 
-* [Astro](https://github.com/withastro/astro) ⭐ 64,203 | 🐛 123 | 🌐 TypeScript | 📅 2026-11-25 - Modern Static Site Builder.
-* [Slidev](https://github.com/slidevjs/slidev) ⭐ 49,633 | 🐛 240 | 🌐 TypeScript | 📅 2026-11-05 - Presentation Slides for Developers.
-* [VitePress](https://github.com/vuejs/vitepress) ⭐ 18,523 | 🐛 390 | 🌐 TypeScript | 📅 2026-11-12 - Static Site Generator powered by Vite and Vue.
-* [WXT](https://github.com/wxt-dev/wxt) ⭐ 10,777 | 🐛 197 | 🌐 TypeScript | 📅 2026-11-25 - Framework for building web extensions, with the same DX as Nuxt.
-* [Nhost](https://github.com/nhost/nhost) ⭐ 9,400 | 🐛 193 | 🌐 Go | 📅 2026-11-25 - Open Source Firebase Alternative with GraphQL.
+* [Astro](https://github.com/withastro/astro) ⭐ 64,229 | 🐛 132 | 🌐 TypeScript | 📅 2026-11-26 - Modern Static Site Builder.
+* [Slidev](https://github.com/slidevjs/slidev) ⭐ 49,650 | 🐛 240 | 🌐 TypeScript | 📅 2026-11-05 - Presentation Slides for Developers.
+* [VitePress](https://github.com/vuejs/vitepress) ⭐ 18,529 | 🐛 390 | 🌐 TypeScript | 📅 2026-11-12 - Static Site Generator powered by Vite and Vue.
+* [WXT](https://github.com/wxt-dev/wxt) ⭐ 10,782 | 🐛 196 | 🌐 TypeScript | 📅 2026-11-26 - Framework for building web extensions, with the same DX as Nuxt.
+* [Nhost](https://github.com/nhost/nhost) ⭐ 9,402 | 🐛 193 | 🌐 Go | 📅 2026-11-26 - Open Source Firebase Alternative with GraphQL.
 * [Ladle](https://github.com/tajo/ladle) ⭐ 2,999 | 🐛 49 | 🌐 TypeScript | 📅 2026-06-28 - Tool for developing and testing component stories powered by Vite and React.
 * [IslandJS](https://github.com/sanyuan0704/island.js) ⭐ 475 | 🐛 23 | 🌐 TypeScript | 📅 2024-02-13 - Static site generator base on islands architecture.
 * [@lazarv/react-server](https://github.com/lazarv/react-server) ⚠️ Archived - A React meta-framework.
@@ -849,8 +849,8 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 ### Apps/Websites
 
-* [Icônes](https://github.com/antfu/icones) ⭐ 7,513 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-24 - Icon explorer with instant search.
-* [macOS in Svelte](https://github.com/PuruVJ/macos-web/) ⭐ 2,686 | 🐛 47 | 🌐 Svelte | 📅 2026-07-05 - macOS Desktop experience for Web in Svelte.
+* [Icônes](https://github.com/antfu/icones) ⭐ 7,514 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-24 - Icon explorer with instant search.
+* [macOS in Svelte](https://github.com/PuruVJ/macos-web/) ⭐ 2,687 | 🐛 47 | 🌐 Svelte | 📅 2026-07-05 - macOS Desktop experience for Web in Svelte.
 * [vue3-realworld-example-app](https://github.com/mutoe/vue3-realworld-example-app) ⭐ 1,083 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-28 - Realworld app implementation using Vue 3 + TypeScript + Composition API.
 * [react-device-frameset](https://github.com/zheeeng/react-device-frameset) ⭐ 111 | 🐛 4 | 🌐 TypeScript | 📅 2024-04-04 - This is yet another device frameset component for React.
 * [Awesome CN Café](https://github.com/antfu/awesome-cn-cafe-web) ⭐ 105 | 🐛 9 | 🌐 TypeScript | 📅 2024-01-28 - Web application for Awesome CN Café.
@@ -863,4 +863,4 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
